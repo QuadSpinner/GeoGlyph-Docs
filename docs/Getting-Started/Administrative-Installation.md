@@ -7,12 +7,12 @@ GeoGlyph's MSI installer is designed to detect and install GeoGlyph dependencies
 For a remote/command line installation, the following variables must be provided to the MSI package.
 
 ## Paths
-- ```TARGETDIR``` The installation directory for GeoGlyph 2. Typically `~\Programs Files\QuadSpinner\GeoGlyph 2`.
+- ```TARGETDIR``` The installation directory for GeoGlyph 2. Typically *Program Files\QuadSpinner\GeoGlyph*.
 - ```WM237``` The installation directory for World Machine version 2.3.7.
 - ```WM303``` The installation directory for World Machine version 3.0.0.3.
 - ```WM3011``` The installation directory for World Machine version 3.0.0.11.
-- ```DOCS``` World Machine's Documents directory. Typically `%USERDOCS%\World Machine Documents`.
-- ```MACROS``` World Machine's Macros repository. Typically the `Macros` folder inside World Machine Documents.
+- ```DOCS``` World Machine's Documents directory. Typically *%USERDOCS%\World Machine Documents*.
+- ```MACROS``` World Machine's Macros repository. Typically the *Macros* folder inside World Machine Documents.
 
 [!IMPORTANT]
 The DOCS and MACROS folder must be unprotected paths that all users have read/write access to.
@@ -43,4 +43,4 @@ Set these to 0 or 1 as required.
 
 ## License Management
 
-At the moment, licenses need to be [installed manually](6666). In a near future update, we will add license deployment to command line installations.
+At the moment, licenses need to be [installed manually](Getting-Started--License-Management). In a near future update, we will add license deployment to command line installations.

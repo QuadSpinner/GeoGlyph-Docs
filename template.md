@@ -66,11 +66,11 @@ Folder Name with -- separator followed by the topic name, with dashes replacing 
 
 ### Links to Devices and Macros
 
-You can use the `@device` shorthand to link to devices and macros. GitHub and general Markdown will not recognize it, but our markdown processor will convert it to the appropriate link.
+You can use the `@Device` shorthand to link to devices and macros. GitHub and general Markdown will not recognize it, but our markdown processor will convert it to the appropriate link.
 
-NOTE: **The shorthand must be in lowercase.**
+NOTE: **The shorthand must be case sensitive.**
 
-> For example, `@aperture` will be turned into [Aperture](devices--aperture)
+- For example, `@Aperture` will be turned into [Aperture](devices--aperture)
 
 ### External Links
 
@@ -153,19 +153,9 @@ Use backticks (&#96;) for `inline code`. Use inline code for command-line comman
 
 [![alt text for linked image](../images/Logo_DotNet.png)](https://dot.net) 
 
-## Videos
+## Extensions
 
-### Channel 9
-
-<iframe src="https://channel9.msdn.com/Shows/On-NET/Shipping-NET-Core-RC2--Tools-Preview-1/player" width="960" height="540" allowFullScreen frameBorder="0"></iframe>
-
-### YouTube
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/g2a4W6Q7aRw" frameborder="0" allowfullscreen></iframe>
-
-## docs.microsoft extensions
-
-docs.microsoft provides a few additional extensions to GitHub Flavored Markdown. 
+Our preprocessor provides a few additional extensions to GitHub Flavored Markdown. 
 
 ### Alerts
 
