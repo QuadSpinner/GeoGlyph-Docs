@@ -1,10 +1,8 @@
-
 PARAGRAPH
 
 ## Properties
-- **Input**: None
-- **Output**: Heightfield - main output
-- **[PerlinRiver]**: 
+
+### PerlinRiver 
 - **Scale**: DESCRIPTION
 - **Shore**: DESCRIPTION
 - **Complexity**: DESCRIPTION

@@ -1,4 +1,3 @@
-
 Paragraph
 
 ## Properties
@@ -7,13 +6,13 @@ Paragraph
 - **Input**: Shape Guide Heightfield
 - **Output**: Heightfield
 - **Output**: Mask Heightfield 
-- **[Archipelago]**: 
+### Archipelago 
 - **Sprawl**: Adjusts the intensity or coverage of the sprawl.
 - **Stratification**: Assigns the quantity of strata. 
 - **Smoothing**: A simple way to smooth the entire archipelago. Very useful for distant terrains or if you are getting unnecessary noise.
 - **Island-Coast Ratio**: Control the bias between multiple islands and coastal terrain.
 - **Reef Formation**: Amount of reef formation on the fringe of the terrain.
-- **[Processing]**: 
+### Processing 
 - **Scale**: Scale of the geological features on the isles.
 - **Warp**: Amount of warping for geological features, including island formation.
 - **Detail**: Level of detail in the geological features

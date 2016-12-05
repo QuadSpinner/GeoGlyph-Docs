@@ -1,14 +1,12 @@
-
 PARAGRAPH
 
 ## Properties
-- **Input**: None
-- **Output**: Heightfield - main output
-- **[Perlinoclast]**: 
+
+### Perlinoclast 
 - **Cliffs**: DESCRIPTION
 - **Suforms**: DESCRIPTION
 - **Fusion**: DESCRIPTION
-- **[Formation]**: 
+### Formation 
 - **Signal Direction**: DESCRIPTION
 - **Interference Direction**: DESCRIPTION
 - **Collapse**: DESCRIPTION

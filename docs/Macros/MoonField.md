@@ -1,10 +1,8 @@
-
 PARAGRAPH
 
 ## Properties
-- **Input**: None
-- **Output**: Heightfield - main output
-- **[Moonfield]**: 
+
+### Moonfield 
 - **Crater Size**: DESCRIPTION
 - **Erosion**: DESCRIPTION
 - **Skip Erosion**: DESCRIPTION

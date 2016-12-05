@@ -1,5 +1,3 @@
-
-
 RazorRidge generates extreme sharp rock formations. The unique razor edges can create interesting alien landscapes and other distinctive terrains. Compare results when using GeoGlyph modifiers KillSpike or PeakCompact. For different output, try combining with other GeoGlyph devices, such as Sandstone.
 
 C: We can also take out any mention of "does not use Erosion" - we can make that a tag too.
@@ -11,9 +9,8 @@ C: We can also take out any mention of "does not use Erosion" - we can make that
 - Does not use erosion. Results are from pure fractal mathematics.
 
 ## Properties
-- **Input**: None
-- **Output**: Heightfield - main output
-- **[RazorRidge]**: 
+
+### RazorRidge 
 - **Scale**: DESCRIPTION
 - **Seed**: DESCRIPTION
 

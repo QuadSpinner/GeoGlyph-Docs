@@ -1,10 +1,8 @@
-
 PARAGRAPH
 
 ## Properties
-- **Input**: Heightfield - any heightfield
-- **Output**: Heightfield - main output
-- **[Bulbous]**: 
+
+### Bulbous 
 - **Passes**: DESCRIPTION
 - **Alternate**: DESCRIPTION
 

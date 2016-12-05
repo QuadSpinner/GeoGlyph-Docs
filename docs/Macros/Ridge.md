@@ -1,5 +1,3 @@
-
-
 Ridge is an excellent base generator for large fields or distant terrains, upon which to build more complex formations. Both ridge lines and slopes beautifully punctuate vast terrains.
 
 - Excellent base generator to build more complex on top of
@@ -8,9 +6,8 @@ Ridge is an excellent base generator for large fields or distant terrains, upon 
 - Does not use erosion. Results are from pure fractal mathematics.
 
 ## Properties
-- **Input**: None
-- **Output**: Heightfield - main output
-- **[Generator]**: 
+
+### Generator 
 - **Scale**: DESCRIPTION
 - **Warp**: DESCRIPTION
 - **Seed**: DESCRIPTION

@@ -1,4 +1,3 @@
-## Toolbox
 > GeoGlyph Toolbox provides easy access to GeoGlyph and World Machine devices/macros. By clicking on any of the icons on toolbox will allow you to create the device/macro in World Machine. Toolbox can be accessed by two ways:
 - By clicking **Pop Toolbox** button on the Toolbar will open the popup to access the toolbox item.
 - By Toggling the Toolbox sidebar from the Top right GeoGlyph toolbar, will show/hide the Toolbox on the right side.

@@ -1,4 +1,3 @@
-## Build Stack
 > Build Stack helps you record the build information of the world you are working on. This information gets added to the build stack when you build using the **Build World** button or **Build to current device** on the top right GeoGlyph toolbar. Build stack records build time taken by each device. It also keeps the record of the build profile which includes information like World resolution, world height & width.
 
 ## Build Stack viewer 

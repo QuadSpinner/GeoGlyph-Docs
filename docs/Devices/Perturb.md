@@ -1,4 +1,3 @@
-
 > This device creates perturbations across the terrain, mimicking swirling water. This can be a very useful effect for creating complex rock formations and desert scenes. When eroded, perturbed terrains can create very believable multi-level mountains.
 
 ## Properties

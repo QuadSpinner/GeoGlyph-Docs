@@ -1,5 +1,4 @@
-## Introduction to GeoGlyph IDE
- GeoGlyph 2's Integrated Development Environment (IDE) wraps itself around World Machine and connects deeply with it, like a suite of power armor. To use IDE GeoGlyph must be launched first. The startup screen provides two options **GeoGlyph IDE** and **Hosted Mode**. Clicking **GeoGlyph IDE** will start GeoGlyph IDE around World Machine.
+GeoGlyph 2's Integrated Development Environment (IDE) wraps itself around World Machine and connects deeply with it, like a suite of power armor. To use IDE GeoGlyph must be launched first. The startup screen provides two options **GeoGlyph IDE** and **Hosted Mode**. Clicking **GeoGlyph IDE** will start GeoGlyph IDE around World Machine.
 
 A Menu bar bar above GeoGlyph toolbar shows you the GeoGlyph License type. Another option on this bar lets you send the feedback to us. The third option opens the GeoGlyph 2.0 Power User Console.
 

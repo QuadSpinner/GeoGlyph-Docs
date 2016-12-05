@@ -1,4 +1,3 @@
-## WIP Recorder
 > WIP Recorder is a feature which allows you to take screenshots of your work at regular intervals in GeoGlyph. You simply need to provide the path to save the screenshot files and the time interval at which the screenshots should be taken. This feature helps you see the progress of your work and you can monitor the flow through which your project went.
 
 > There are two ways to use WIP Recorder:

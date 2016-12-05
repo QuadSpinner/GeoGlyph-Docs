@@ -1,4 +1,3 @@
-
 Vortal is an advanced form of Hydro erosion. It simulates the same churning forces, but provides control over direction and intensity of both forces. By changing the directionality of the forces and the subsequent churn, you can create complex effects by partially eroding terrains. Vortal is able to recognize large flows such as those created by the Swirl, Whorl, Vortex, and Hydro, thus making it a very useful complement to those devices.
 
 The vortal erosion can be controlled across both sets of forces, allowing you to create a subtle churning effect. Vortal is very useful for water environments as well as desert environments that were shaped underwater millions of years ago (Zion National Park, for example).

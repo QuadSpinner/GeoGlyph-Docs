@@ -1,4 +1,3 @@
-
 > The Rotator device lets you rotate a heightfield at any point in the graph. This is useful for many operations.
 
 #### Properties

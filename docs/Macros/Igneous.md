@@ -1,5 +1,3 @@
-
-
 A unique, new hard rock surface generator, Igneous produces strong angular lines and natural rock breakage. The results mimic the brittleness of igneous rock, and are generated from pure fractal mathematics, not erosion.
 
 This macro is an excellent choice for creating expansive terrain floors, and can be mixed with other GeoGlyph devices, such as Peak and Crater.
@@ -12,13 +10,12 @@ This macro is an excellent choice for creating expansive terrain floors, and can
 - Does not use erosion. Results are from pure fractal mathematics.
 
 ## Properties
-- **Input**: None
-- **Output**: Heightfield - main output
-- **[Igneous]**: 
+
+### Igneous 
 - **Scale**: DESCRIPTION
 - **Warp**: DESCRIPTION
 - **Roughness**: DESCRIPTION
-- **[Seeds]**: 
+### Seeds 
 - **Primary**: DESCRIPTION
 - **Turbulence**: DESCRIPTION
 - **Surface**: DESCRIPTION
