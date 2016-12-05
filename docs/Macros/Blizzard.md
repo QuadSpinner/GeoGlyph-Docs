@@ -1,6 +1,4 @@
-# Blizzard
 
-##### Macro :: Processing
 
 This convenient macro produces realistic snow accumulation on mountains and also erodes geological features based on snowfall, wind intensity, and other natural factors. Despite the high degree of realism, these effects are easy to achieve. 
 Combining Blizzard with GeoGlyph's SnowDrift will also give you dramatic results. 

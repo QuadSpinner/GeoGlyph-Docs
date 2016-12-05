@@ -1,5 +1,3 @@
-# Alien
-##### Macro :: Generator
 
 PARAGRAPH
 

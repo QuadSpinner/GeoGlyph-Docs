@@ -1,5 +1,3 @@
-# Fault
-##### Macro :: Erosion
 
 PARAGRAPH
 

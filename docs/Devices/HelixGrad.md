@@ -1,5 +1,3 @@
-# HelixGrad
-##### Device :: Generator
 
 PARAGRAPH
 

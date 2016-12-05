@@ -1,5 +1,3 @@
-# EdgeFilter
-##### Macro :: Utility
 
 PARAGRAPH
 

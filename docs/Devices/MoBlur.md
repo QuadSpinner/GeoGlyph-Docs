@@ -1,5 +1,3 @@
-# MoBlur
-##### Device :: TYPE
 
 PARAGRAPH
 

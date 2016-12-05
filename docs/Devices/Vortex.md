@@ -1,5 +1,3 @@
-# Vortex
-##### Device :: Effect
 
 PARAGRAPH
 

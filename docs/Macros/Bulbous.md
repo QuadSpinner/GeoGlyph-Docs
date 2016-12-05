@@ -1,5 +1,3 @@
-# Bulbous
-##### Macro :: Generator
 
 PARAGRAPH
 

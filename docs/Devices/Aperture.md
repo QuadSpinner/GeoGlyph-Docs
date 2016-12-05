@@ -1,5 +1,3 @@
-# Aperture
-##### Device :: Utility
 
 The Aperture device expands or compacts every single feature on the terrain, similar to bokehÂ in a camera.
 

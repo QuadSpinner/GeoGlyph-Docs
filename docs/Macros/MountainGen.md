@@ -1,5 +1,3 @@
-# MountainGen
-##### Macro :: Generator
 
 PARAGRAPH
 

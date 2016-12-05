@@ -1,6 +1,4 @@
-# MultiPerlin
 
-##### Macro :: Generator
 
 An essential building block, MultiPerlin enhances your collection of basic fractals. This macro elaborates on WM's classic implementation of the Perlin fractal and adds multiple recursions to create exquisite complex rocky formations.
 

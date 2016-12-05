@@ -1,6 +1,4 @@
-# PerlinWave
 
-##### Macro :: Generator
 
 Expanding GeoGlyph's roster of basic generators, PerlinWave adds a soft, undulating new Perlin-based generator.
 

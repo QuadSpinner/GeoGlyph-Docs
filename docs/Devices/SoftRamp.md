@@ -1,5 +1,3 @@
-# SoftRamp
-##### Device :: Effect
 
 PARAGRAPH
 

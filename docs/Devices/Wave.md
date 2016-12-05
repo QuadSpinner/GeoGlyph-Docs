@@ -1,5 +1,3 @@
-# Wave
-##### Device :: Effect
 
 Paragraph
 

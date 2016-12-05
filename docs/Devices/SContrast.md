@@ -1,5 +1,3 @@
-# SContrast
-##### Device :: Effect
 
 PARAGRAPH
 

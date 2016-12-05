@@ -1,5 +1,3 @@
-# PeakV2
-##### Macro :: Generator
 
 PARAGRAPH
 

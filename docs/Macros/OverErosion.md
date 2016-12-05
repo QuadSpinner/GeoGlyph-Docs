@@ -1,6 +1,4 @@
-# OverErosion
 
-##### Macro :: Erosion
 
 Using erosion data, OverErosion extrapolates how additional erosion will affect the terrain. Built-in lossless modifiers highlight intricate erosion details, without further eroding or re-eroding the terrain, thereby preserving its original shape. And you maintain control of the process. 
 

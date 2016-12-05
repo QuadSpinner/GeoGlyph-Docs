@@ -1,5 +1,3 @@
-# RockOutcrops
-##### Device :: TYPE
 
 PARAGRAPH
 

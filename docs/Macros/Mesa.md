@@ -1,6 +1,4 @@
-# Mesa
 
-##### Macro :: Processing
 
 Mesa takes a standard heightfield and refactors it into the iconic Monument Valley style butte formation, with basic erosion and slope-sensitive terracing. You can enrich the detail with GeoGlyph's kingpin macros, Sandstone and Strata.Mesa suits wide terrains as well as Hero elements. 
 

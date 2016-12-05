@@ -1,5 +1,3 @@
-# Swirl
-##### Device :: Effect
 
 PARAGRAPH
 

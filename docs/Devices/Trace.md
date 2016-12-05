@@ -1,5 +1,3 @@
-# Trace
-##### Device :: Color
 
 PARAGRAPH
 

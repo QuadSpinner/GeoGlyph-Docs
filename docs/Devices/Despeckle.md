@@ -1,5 +1,3 @@
-# Despeckle
-##### Device :: Utility
 
 Despeckle cleans areas in which noise is noticeable while leaving complex areas untouched. The noise is reduced without severely affecting contours. This can be an alternative to KillSpike or Denoise if you are dealing with localized noise.
 

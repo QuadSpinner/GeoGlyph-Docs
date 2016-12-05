@@ -1,5 +1,3 @@
-# HeatFused
-##### Macro :: Generator
 
 PARAGRAPH
 

@@ -1,5 +1,3 @@
-# ProgressiveNoise
-##### Device :: Effect
 
 PARAGRAPH
 

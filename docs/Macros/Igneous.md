@@ -1,6 +1,4 @@
-# Igneous
 
-##### Macro :: Generator
 
 A unique, new hard rock surface generator, Igneous produces strong angular lines and natural rock breakage. The results mimic the brittleness of igneous rock, and are generated from pure fractal mathematics, not erosion.
 

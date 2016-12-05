@@ -1,5 +1,3 @@
-# Whorl
-##### Device :: Effect
 
 PARAGRAPH
 

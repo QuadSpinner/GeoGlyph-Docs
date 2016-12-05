@@ -1,5 +1,3 @@
-# Archipelago
-##### Macro :: Generator
 
 Paragraph
 

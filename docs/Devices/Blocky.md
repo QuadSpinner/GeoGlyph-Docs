@@ -1,5 +1,3 @@
-# Blocky
-##### Device :: Effect
 
 PARAGRAPH
 

@@ -1,5 +1,3 @@
-# Repulse
-##### Device :: Effect
 
 PARAGRAPH
 

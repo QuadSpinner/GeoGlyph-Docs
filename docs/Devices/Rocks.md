@@ -1,5 +1,3 @@
-# Rocks
-##### Device :: TYPE
 
 PARAGRAPH
 
