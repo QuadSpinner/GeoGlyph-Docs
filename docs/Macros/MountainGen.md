@@ -1,9 +1,7 @@
-
 PARAGRAPH
 
 ## Properties
-- **Input**: None
-- **Output**: Heightfield - main output
+
 ### MountainGen 
 - **Scale**: DESCRIPTION
 - **Erosion**: DESCRIPTION

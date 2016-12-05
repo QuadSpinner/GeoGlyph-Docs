@@ -1,12 +1,7 @@
-
 PARAGRAPH
 
 ## Properties
-- **Input**: Terrain - Mixed
-- **Input**: Coordinates - Mixed
-- **Output**: Heightfield - Output
-- **Output**: Heightfield - Mask
-- **Output**: Heightfield - Walls Only
+
 ### Fault 
 - **Width**: DESCRIPTION
 - **Angle**: DESCRIPTION

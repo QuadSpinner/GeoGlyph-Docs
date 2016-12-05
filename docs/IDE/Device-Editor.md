@@ -1,4 +1,3 @@
-## Device Editor
 Device Editors are the enhanced editors for the GeoGlyph devices. To use them instead of traditional dialog, you much have the **Toggle Enhanced Editors for GeoGlyph** button checked in the top right GeoGlyph toolbar. When you double click on the GeoGlyph device the enhanced device editor will show up. This device editor has two sections. The left section shows the preview of the device output along with the options to modify the preview. The right section of the device editor shows all the properties of the device which will be shown by slider, dropdown or a checkbox based on the property type. 
 
 ## Device editor preview

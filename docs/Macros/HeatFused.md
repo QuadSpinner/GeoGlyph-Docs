@@ -1,9 +1,7 @@
-
 PARAGRAPH
 
 ## Properties
-- **Input**: None
-- **Output**: Heightfield - main output
+
 ### HeatFused 
 - **Scale**: DESCRIPTION
 - **Depth**: DESCRIPTION

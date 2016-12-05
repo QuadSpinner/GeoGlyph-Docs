@@ -1,5 +1,3 @@
-
-
 The flagship of GeoGlyph, Mountain produces rugged mountains from pure fractals. The characteristic hard edges and realistic flat slopes are not seen in WM. 
 
 Mountain's complex generation is achieved through a few simple controls and renders at lightning fast speed. Superb erosion can be achieved with GeoGlyph's NeoFlow. The results are breathtakingly dramatic. 
@@ -12,8 +10,7 @@ Mountain's complex generation is achieved through a few simple controls and rend
 - Does not use erosion. Results are from pure fractal mathematics.
 
 ## Properties
-- **Input**: None
-- **Output**: main output - mixed
+
 ### Factors 
 - **Scale**: DESCRIPTION
 - **Mountains**: DESCRIPTION

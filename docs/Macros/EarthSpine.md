@@ -1,5 +1,3 @@
-
-
 EarthSpine is a powerful generator for creating scenic mountain ranges or rolling hills. The gentle rock and sedimentary flows are generated from the fractal itself, not by modifiers. The slopes and grooves are extremely conducive to erosion, in particular with GeoGlyph's NeoFlow macro.
 
 - A powerful generator for creating mountains ranges or rolling hills
@@ -9,8 +7,7 @@ EarthSpine is a powerful generator for creating scenic mountain ranges or rollin
 - Does not use erosion. Results are from pure fractal mathematics.
 
 ## Properties
-- **Input**: None
-- **Output**: Heightfield - main output
+
 ### EarthSpine  
 - **Scale**: DESCRIPTION
 ### Seeds 

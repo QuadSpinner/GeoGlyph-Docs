@@ -1,4 +1,3 @@
-## Feedback
 If you have any feedback for us to improve GeoGlyph or if you need technical support, you can use the Feedback dialog. You can access it from the top right section of GeoGlyph, you can also send feedback from the GeoGlyph start screen menu.
 
 In the feedback dialog, share your opinion, or if you are facing a problem enter it into the main textbox. Read the FAQ to see if your problem already has a solution. If you do not find an answer, describe the problem clearly and in detail. In case you are getting an error mention the error.

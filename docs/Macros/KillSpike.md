@@ -1,11 +1,8 @@
-
-
 The first lossless noise reduction modifier for World Machine, KillSpike detects and removes those pesky spikes that occur in intense erosion scenarios. This macro gives you  control over the detection sensitivity and the aggression with which KillSpike attacks noise. 
 
 
 ## Properties
-- **Input**: Heightfield - any heightfield
-- **Output**: Heightfield - main output
+
 ### KillSpike 
 - **Detection**: Sensitivity employed to detect spikes.
 - **Aggression**: Aggressiveness employed to 'kill' spikes.

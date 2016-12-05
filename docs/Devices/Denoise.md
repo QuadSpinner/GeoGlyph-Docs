@@ -1,4 +1,3 @@
-
 Denoise is a general purpose noise removal filter. It systematically cleans up random noise, spikes, and extremely sharp edges.
 
 ## Properties

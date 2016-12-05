@@ -1,9 +1,7 @@
-
 PARAGRAPH
 
 ## Properties
-- **Input**: Heightfield - any heightfield
-- **Output**: Heightfield - main output
+
 ### RealColor 
 - **Erosion**: DESCRIPTION
 - **Hardness**: DESCRIPTION

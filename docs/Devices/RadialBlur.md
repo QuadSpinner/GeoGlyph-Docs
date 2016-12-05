@@ -1,4 +1,3 @@
-
 > RadialBlur works exactly as its sister-effects in Photoshop and other paint programs. It "spins" the terrain creating a whirling effect.
 
 ## Properties

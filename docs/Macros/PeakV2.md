@@ -1,9 +1,7 @@
-
 PARAGRAPH
 
 ## Properties
-- **Input**: Coordinates - Mixed
-- **Output**: Heightfield - main output
+
 ### PeakV2 
 - **Scale**: DESCRIPTION
 - **Ridges**: DESCRIPTION
