@@ -6,7 +6,7 @@ EcoBumps is a unique solution for creating large aerial-view forests and jungles
 - **Input**: Heightfield - any heightfield
 - **Output**: Heightfield - main output
  Mask (Optional) - heightfield or bitmap to be used as a mask
-- **[EcoBump]**: 
+### EcoBump 
 - **Protrusion**: The extent of the protruding shapes.
 - **Seed**: Random seed.
 

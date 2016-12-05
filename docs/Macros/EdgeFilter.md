@@ -5,7 +5,7 @@ PARAGRAPH
 - **Input**: Mixed
 - **Input**: Override Coordinate
 - **Output**: Heightfield - main output
-- **[EdgeFilter]**: 
+### EdgeFilter 
 - **Softness**: DESCRIPTION
 - **Scale**: DESCRIPTION
 - **Strength**: DESCRIPTION

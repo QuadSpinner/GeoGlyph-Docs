@@ -24,7 +24,7 @@ D: Need to rename 'Enigma Properties' (below) to NeoFlow
 - **Output**: Heightfield - NaturalWear
 - **Output**: Heightfield - NaturalDeposit
 - **Output**: Heightfield - Crevices
-- **[Erosion]**: 
+### Erosion 
 - **Strength**: DESCRIPTION
 - **Depth**: DESCRIPTION
 - **Roughness**: DESCRIPTION

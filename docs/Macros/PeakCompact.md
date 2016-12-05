@@ -6,7 +6,7 @@ Based on KillSpike's lossless code and PeakDetect's altitude-agnostic masking, P
 - **Input**: Heightfield - any heightfield
 - **Output**: Heightfield - Main output
 - **Mask**: - masked output of PeakCompact processing extents
-- **[PeakCompact]**: 
+### PeakCompact 
 - **Detection**: Sensitivity employed to detect peaks.
 - **Aggression**: Aggressiveness employed to compact peaks.
 

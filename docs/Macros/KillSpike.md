@@ -6,7 +6,7 @@ The first lossless noise reduction modifier for World Machine, KillSpike detects
 ## Properties
 - **Input**: Heightfield - any heightfield
 - **Output**: Heightfield - main output
-- **[KillSpike]**: 
+### KillSpike 
 - **Detection**: Sensitivity employed to detect spikes.
 - **Aggression**: Aggressiveness employed to 'kill' spikes.
 - **Dispersion**: The effect's falloff from each individually detected spike.

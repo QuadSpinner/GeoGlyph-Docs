@@ -6,7 +6,7 @@ This exciting device creates fluvial erosion lines without eroding the terrain. 
 - **Input**: Heightfield - any heightfield
 - **Mask (Optional)**: - heightfield or bitmap to be used as a mask
 - **Output**: Heightfield - main output
-- **[Fluvial]**: 
+### Fluvial 
 - **Depth**: Relative depth of the fluvial channels.
 - **Seed**: Random seed.
 - **Flow**: Strength of the fluvial flow lines.

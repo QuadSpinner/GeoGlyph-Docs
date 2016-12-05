@@ -12,9 +12,9 @@ MultiPerlin provides 3 levels of output, with 3 times the complexity that you ca
 ## Properties
 - **Input**: None
 - **Output**: main output - mixed
-- **[MultiPerlin]**: 
+### MultiPerlin 
 - **Scale**: DESCRIPTION
-- **[Seeds]**: 
+### Seeds 
 - **Alpha**: DESCRIPTION
 - **Beta**: DESCRIPTION
 - **Gamma**: DESCRIPTION

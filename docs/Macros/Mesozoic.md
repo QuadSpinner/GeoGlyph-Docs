@@ -11,11 +11,11 @@ A blend of solid rough surfaces and smooth, water-worn undulations, Mesozoic all
 ## Properties
 - **Input**: None
 - **Output**: Heightfield - main output
-- **[Mesozoic]**: 
+### Mesozoic 
 - **Scale**: DESCRIPTION
 - **Indentation**: DESCRIPTION
 - **Formations**: DESCRIPTION
-- **[Seeds]**: 
+### Seeds 
 - **Primary**: DESCRIPTION
 - **Turbulence**: DESCRIPTION
 - **Surface**: DESCRIPTION

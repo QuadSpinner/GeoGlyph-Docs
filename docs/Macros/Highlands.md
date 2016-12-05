@@ -15,10 +15,10 @@ The macro exposes a special mask for rocks and rock clusters.
 - **Input**: None
 - **Output**: Heightfield - main output
 - **Output**: Heightfield - Rock Mask
-- **[Generator]**: 
+### Generator 
 - **Scale**: DESCRIPTION
 - **Complexity**: DESCRIPTION
-- **[Seeds]**: 
+### Seeds 
 - **Primordial**: DESCRIPTION
 - **Tactile**: DESCRIPTION
 

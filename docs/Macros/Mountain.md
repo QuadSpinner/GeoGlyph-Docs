@@ -14,11 +14,11 @@ Mountain's complex generation is achieved through a few simple controls and rend
 ## Properties
 - **Input**: None
 - **Output**: main output - mixed
-- **[Factors]**: 
+### Factors 
 - **Scale**: DESCRIPTION
 - **Mountains**: DESCRIPTION
 - **Base**: DESCRIPTION
-- **[Seeds]**: 
+### Seeds 
 - **Primary**: DESCRIPTION
 - **Turbulence**: DESCRIPTION
 - **Surface**: DESCRIPTION

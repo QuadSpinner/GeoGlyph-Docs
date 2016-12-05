@@ -6,11 +6,11 @@ Derived from and augmenting World Machine's Select Height device, HeightFrag add
 - **Input**: Heightfield - any heightfield
 - **Mask (Optional)**: - heightfield or bitmap to be used as a mask
 - **Output**: Heightfield - main output
-- **[Altitude]**: 
+### Altitude 
 - **Maximum**: The maximum limit within which the processing takes place.
 - **Minimum**: The minimum limit within which the processing takes place.
 - **Falloff**: Smooths the transition of the effect beyond the limit.
-- **[Fragmentation]**: 
+### Fragmentation 
 - **Scale**: Scale of the shape fragments
 - **Seed**: Random seed.
 - **Intensity**: Intensity of the fragmentation

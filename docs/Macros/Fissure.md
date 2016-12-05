@@ -10,7 +10,7 @@ This unique complex generator produces deep lateral flow lines and cracks. The r
 - **Output**: Heightfield - main output
 - **Output**: Heightfield - Fissures
 - **Output**: Heightfield - Deformed Terrain
-- **[Fissure]**: 
+### Fissure 
 - **Scale**: DESCRIPTION
 - **Seed**: DESCRIPTION
 

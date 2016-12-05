@@ -8,12 +8,12 @@ This super macro has a lightweight version of Blizzard built in which allows you
 - **Input**: Heightfield - any heightfield
 - **Output**: Heightfield - main output
 - **Output**: Snow Mask Heightfield
-- **[Snow]**: 
+### Snow 
 - **Amount**: DESCRIPTION
-- **[Layers]**: 
+### Layers 
 - **Accumulation**: DESCRIPTION
 - **Strata**: DESCRIPTION
-- **[Blizzard]**: 
+### Blizzard 
 - **Direction**: DESCRIPTION
 - **Verticality**: DESCRIPTION
 

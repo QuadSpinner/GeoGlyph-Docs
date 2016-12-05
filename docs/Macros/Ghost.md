@@ -6,10 +6,10 @@ Breaking away from the signature World Machine shapes, Ghost distorts terrains a
 - **Input**: Heightfield - any heightfield
 - **Mask (Optional)**: - heightfield or bitmap to be used as a mask
 - **Output**: Heightfield - main output
-- **[Ghost]**: 
+### Ghost 
 - **Intensity**: Intensity of the terrain distortion.
 - **Anchor**: DESCRIPTION
-- **[Altitude]**: 
+### Altitude 
 - **Maximum**: The maximum limit within which the processing takes place.
 - **Minimum**: The minimum limit within which the processing takes place.
 - **Transition**: Smooths the transition of the effect beyond the limit.

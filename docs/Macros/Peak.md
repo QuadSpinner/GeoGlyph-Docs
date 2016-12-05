@@ -5,7 +5,7 @@ Peak is a simple, yet highly useful device for creating dramatic mountain peaks 
 ## Properties
 - **Input**: None
 - **Output**: Heightfield - Main output
-- **[Peak]**: 
+### Peak 
 - **Radius**: Determinant radius of the peak.
 - **Turbulence**: Amount of turbulence in the rock formations' generation process
 - **Seed**: Random seed.

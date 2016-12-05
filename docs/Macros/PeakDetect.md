@@ -5,7 +5,7 @@ Based on your sensitivity settings, PeakDetect identifies peaks and ridges, and 
 ## Properties
 - **Input**: Heightfield - any heightfield
 - **Output**: Heightfield - Masked area
-- **[PeakDetect]**: 
+### PeakDetect 
 - **Detection**: Sensitivity employed to detect peaks.
 
 

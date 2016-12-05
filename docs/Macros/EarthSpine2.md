@@ -4,13 +4,13 @@ PARAGRAPH
 ## Properties
 - **Input**: None
 - **Output**: Heightfield - main output
-- **[EarthSpine2]**: 
+### EarthSpine2 
 - **Scale**: DESCRIPTION
 - **Features**: DESCRIPTION
 - **Direction**: DESCRIPTION
 - **Erosion**: DESCRIPTION
 - **Accumulation**: DESCRIPTION
-- **[Seeds]**: 
+### Seeds 
 - **Base**: DESCRIPTION
 - **Rivers**: DESCRIPTION
 - **Mountains**: DESCRIPTION

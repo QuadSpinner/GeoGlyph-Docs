@@ -10,10 +10,10 @@ For a vast rocky desert with plateaus, valleys, distinct rock formations, and st
 ## Properties
 - **Input**: None
 - **Output**: Heightfield - main output
-- **[HighDesert]**: 
+### HighDesert 
 - **Scale**: DESCRIPTION
 - **Stratification**: DESCRIPTION
-- **[Seeds]**: 
+### Seeds 
 - **Primary**: DESCRIPTION
 - **Surface**: DESCRIPTION
 

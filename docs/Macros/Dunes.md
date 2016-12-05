@@ -6,7 +6,7 @@ Specifically built for dramatic ground-level shots, Dunes offers visual opportun
 ## Properties
 - **Input**: None
 - **Output**: Heightfield - main output
-- **[Dunes]**: 
+### Dunes 
 - **Scale**: Overall scale of the sand dunes.
 - **Direction**: Sets the flow direction of the sand dunes.
 - **Seed**: Random seed.

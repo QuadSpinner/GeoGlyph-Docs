@@ -4,7 +4,7 @@ PARAGRAPH
 ## Properties
 - **Input**: None
 - **Output**: Heightfield - main output
-- **[Alien]**: 
+### Alien 
 - **Scale**: DESCRIPTION
 - **Bump**: DESCRIPTION
 - **Flat**: DESCRIPTION

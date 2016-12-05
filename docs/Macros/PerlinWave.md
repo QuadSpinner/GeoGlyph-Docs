@@ -11,7 +11,7 @@ This macro can be used to supplement or replace WM's fundamental Perlin and Voro
 ## Properties
 - **Input**: None
 - **Output**: Heightfield - main output
-- **[PerlinWave]**: 
+### PerlinWave 
 - **Scale**: DESCRIPTION
 - **Seed**: DESCRIPTION
 

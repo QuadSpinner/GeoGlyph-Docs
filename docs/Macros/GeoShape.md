@@ -7,7 +7,7 @@ GeoShape produces impressive color maps when combined with GeoGlyph's HeightFrag
 - **Input**: Heightfield - any heightfield
 - **Mask (Optional)** - heightfield or bitmap to be used as a mask
 - **Output**: Heightfield - Main output
-- **[GeoShape]**: 
+### GeoShape 
 - **Scale**: DESCRIPTION
 - **Seed**: DESCRIPTION
 - **Enhancement**: Accentuates detail of larger geological formations.

@@ -6,13 +6,13 @@ This macro produces a simple crater, with precise control over height and shape 
 ## Properties
 - **Input**: None
 - **Output**: Heightfield - main output
-- **[Crater]**: 
+### Crater 
 - **Scale**: Size of the crater.
 - **Distortion**: Amount of distortion in the base formation.
 - **Rings**: Secondary rings on the walls of the base formation.
 - **Roughness**: General roughness of the base formation.
 - **Seed**: Random seed.
-- **[Adjustments]**: 
+### Adjustments 
 - **Expand**: Expands the crater.
 - **Contract**: Contracts the crater.
 - **Raise**: Raises the crater wall.

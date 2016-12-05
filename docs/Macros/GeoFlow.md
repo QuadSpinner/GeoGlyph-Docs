@@ -7,7 +7,7 @@ You can achieve different results by blending Flow and Deposition data or by usi
 - **Input**: Heightfield - any heightfield
 - **Mask (Optional)**: - heightfield or bitmap to be used as a mask
 - **Output**: Heightfield - main output
-- **[GeoFlow]**: 
+### GeoFlow 
 - **Strength**: Strength of the reflowed erosion.
 - **Bias**: Directional bias for the flow.
 - **Depth**: Depth of the flow channels.

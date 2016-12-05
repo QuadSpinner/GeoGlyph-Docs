@@ -7,12 +7,12 @@ FIX SUB-TERRACES -> SUBTERRACESNaturalTerrace takes a very different approach fr
 - **Tilt Coordinates**: - X/Y coordinates where tilt should begin
 - **Mask (Optional)**: - heightfield or bitmap to be used as a mask
 - **Output**: 
-- **[Terrace]**: 
+### Terrace 
 - **Terraces**: Quantity of terraces.
 - **Sub-Terraces**: Quantity of subterraces.
 - **Dip**: Degree of the dip in between layers
 - **Direction**: Direction of the terracing.
-- **[Influences]**: 
+### Influences 
 - **Slope Maximum**: Maximum degree of slope.
 - **Slope Minimum**: Minimum degree of slope.
 - **Tilt Bias**: Direction bias for tilting the terraces.
