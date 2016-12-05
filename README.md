@@ -23,4 +23,4 @@ Slug or URL moniker for each topic will be in this format:
 > Folder Name with -- separator followed by the topic name, with dashes replacing all whitespace and/or special characters.
 > `folder-name--topic-name`
 
-Avoid using any numerals or special characters and use only A-Z for file names. Actual topic titles can contain limited ASCII special characters in the TOC.
+Avoid using any numerals or special characters and use only A-Z for file names. Actual topic titles can contain limited ASCII special characters in the TOC. 
