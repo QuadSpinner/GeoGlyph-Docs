@@ -501,7 +501,7 @@
         "toc_type": "Topic",
         "homepage": null,
         "external_link": null,
-        "href": "0000",
+        "href": null,
         "children": [
           {
             "toc_title": "Generators",
@@ -509,7 +509,7 @@
             "toc_type": "Topic",
             "homepage": null,
             "external_link": null,
-            "href": "0000",
+            "href": null,
             "children": [
               {
                 "toc_title": "DistanceGen",
@@ -1477,7 +1477,7 @@
         "toc_type": "Topic",
         "homepage": null,
         "external_link": null,
-        "href": "0000",
+        "href": null,
         "children": [
           {
             "toc_title": "Generators",
@@ -1485,7 +1485,7 @@
             "toc_type": "Topic",
             "homepage": null,
             "external_link": null,
-            "href": "0000",
+            "href": null,
             "children": [
                 {
                   "toc_title": "Alien",
