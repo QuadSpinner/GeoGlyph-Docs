@@ -1,5 +1,3 @@
-# EarthSpine2
-##### Macro :: Generator
 
 PARAGRAPH
 

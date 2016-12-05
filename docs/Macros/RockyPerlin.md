@@ -1,5 +1,3 @@
-# RockyPerlin
-##### Macro :: Generator
 
 PARAGRAPH
 

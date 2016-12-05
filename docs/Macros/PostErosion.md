@@ -1,6 +1,4 @@
-# PostErosion
 
-##### Macro :: Erosion
 
 Taking the smooth flows and ground-level 'constant value' fields, PostErosion injects simple-yet-realistic turbulence according to the directions of the terrain's geological formations.
 

@@ -1,5 +1,3 @@
-# Sharpen
-##### Device :: Effect
 
 PARAGRAPH
 

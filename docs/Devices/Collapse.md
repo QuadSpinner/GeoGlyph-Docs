@@ -1,5 +1,3 @@
-# Collapse
-##### Device :: Effect
 
 Collapse is a great device for creating large canyons or valleys. This device lowers the selected altitudes, created a large height variance. Unlike clamping, Collapse retains the original shape of the lowered areas, while compensating for the altitude drop.
 

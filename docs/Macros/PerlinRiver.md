@@ -1,5 +1,3 @@
-# PerlinRiver
-##### Macro :: Generator
 
 PARAGRAPH
 

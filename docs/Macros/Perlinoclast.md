@@ -1,5 +1,3 @@
-# Perlinoclast
-##### Macro :: Generator
 
 PARAGRAPH
 

@@ -1,6 +1,4 @@
-# ReFlow
 
-##### Macro :: Erosion
 
 ReFlow uses blunt erosion tactics to force basic Flow and Deposition maps out of any existing heightfield. It does not require the original erosion data. ReFlow is very useful for generating erosion maps without modifying the terrain. ReFlow can be used on any heightfield, including geological satellite data, such as DEM files.
 

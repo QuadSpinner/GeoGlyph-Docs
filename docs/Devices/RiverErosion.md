@@ -1,5 +1,3 @@
-# RiverErosion
-##### Device :: Erosion
 
 World Machine 3.0 introduces a new River system that lets you create beautiful winding rivers. RiverErosion further enhances your river creation by providing a different
 method of eroding rocky river banks, and even underwater areas. While Hydro uses partially randomized, churning forces to erode the terrain, RiverErosion concentrates

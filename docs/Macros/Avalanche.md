@@ -1,6 +1,4 @@
-# Avalanche
 
-##### Macro :: Processing
 
 Avalanche creates realistic snowbanks, snow accumulation, and melt. It can also transform a terrain into a desolate snowfield. Avalanche deforms the terrain during processing, just like the weathering and/or build-up from snow that occurs in nature, yet preserves the terrain's overall shape and feel. 
 

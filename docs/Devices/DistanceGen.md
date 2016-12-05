@@ -1,5 +1,3 @@
-# DistanceGen
-##### Device :: Generator
 
 DistanceGen is a unique geometry generator. While it can be used by itself to create canyon-like terrains, it has even more potential when used with filters or used to drive other fractals such as the Advanced Perlin.
 

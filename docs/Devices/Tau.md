@@ -1,5 +1,3 @@
-# Tau
-##### Device :: TYPE
 
 PARAGRAPH
 

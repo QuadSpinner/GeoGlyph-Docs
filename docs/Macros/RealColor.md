@@ -1,5 +1,3 @@
-# RealColor
-##### Macro :: Utility
 
 PARAGRAPH
 

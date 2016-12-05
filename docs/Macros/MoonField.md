@@ -1,5 +1,3 @@
-# MoonField
-##### Macro :: Generator
 
 PARAGRAPH
 

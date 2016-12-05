@@ -1,6 +1,4 @@
-# Mountain
 
-##### Macro :: Generator
 
 The flagship of GeoGlyph, Mountain produces rugged mountains from pure fractals. The characteristic hard edges and realistic flat slopes are not seen in WM. 
 

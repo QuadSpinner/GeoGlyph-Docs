@@ -1,6 +1,4 @@
-# KillSpike 2X
 
-##### Macro :: Utility
 
 KillSpike2X is KillSpike on steroids! It uses brute-force tactics to subdue erosion spikes. 
 

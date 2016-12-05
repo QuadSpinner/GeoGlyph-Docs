@@ -1,5 +1,3 @@
-# Gamma
-##### Device :: Effect
 
 The Gamma device applies Gamma adjustment to the heightfield. It works exactly as Gamma works in an image processing program.
 

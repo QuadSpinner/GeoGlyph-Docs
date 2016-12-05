@@ -1,5 +1,3 @@
-# Vortal
-##### Device :: Erosion
 
 Vortal is an advanced form of Hydro erosion. It simulates the same churning forces, but provides control over direction and intensity of both forces. By changing the directionality of the forces and the subsequent churn, you can create complex effects by partially eroding terrains. Vortal is able to recognize large flows such as those created by the Swirl, Whorl, Vortex, and Hydro, thus making it a very useful complement to those devices.
 

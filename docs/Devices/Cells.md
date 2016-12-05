@@ -1,5 +1,3 @@
-# Cells
-##### Device :: Effect
 
 This device quantizes the heightfield into discrete cells as defined by the Distance function. The default Euclidian function creates basalt pillar like shapes.
 

@@ -1,6 +1,4 @@
-# Mesozoic
 
-##### Macro :: Generator
 
 This sophisticated generator produces terrains that were submerged for millennia, similar to the scenic formations found in Zion National Park.  
 

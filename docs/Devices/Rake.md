@@ -1,5 +1,3 @@
-# Rake
-##### Device :: Effect
 
 PARAGRAPH
 

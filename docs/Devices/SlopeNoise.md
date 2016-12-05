@@ -1,5 +1,3 @@
-# SlopeNoise
-##### Device :: Generator
 PARAGRAPH
 
 ## Properties

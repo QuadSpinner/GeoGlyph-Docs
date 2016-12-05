@@ -1,6 +1,4 @@
-# NeoFlow
 
-##### Macro :: Erosion
 
 NeoFlow is a brand new form of erosion that builds on WM's existing erosion prowess. Eliminating that familiar eroded look, NeoFlow transforms the deep vertical flow lines that occur on hard surfaces when using WM's default erosion, into softer, more random flow patterns.
 

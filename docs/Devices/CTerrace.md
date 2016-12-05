@@ -1,5 +1,3 @@
-# CTerrace
-##### Device :: Effect
 
 PARAGRAPH
 

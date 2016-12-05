@@ -1,5 +1,3 @@
-# Surfacer
-##### Device :: Color
 
 PARAGRAPH
 

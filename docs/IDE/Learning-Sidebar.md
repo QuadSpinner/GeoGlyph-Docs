@@ -1,4 +1,3 @@
-# Learning Sidebar
 
 The Learning Sidebar gives you quick access to GeoGlyph and World Machine documentation in the IDE. It can be toggled from the GeoGlyph menu and the GeoGlyph toolbar.
 

@@ -1,5 +1,3 @@
-# Pyramids
-##### Device :: Effect
 
 PARAGRAPH
 

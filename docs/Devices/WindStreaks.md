@@ -1,5 +1,3 @@
-# WindStreaks
-##### Device :: Color
 
 PARAGRAPH
 

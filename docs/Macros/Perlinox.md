@@ -1,6 +1,4 @@
-# Perlinox
 
-##### Macro :: Generator
 
 Perlinox is a unique new fractal generator that creates naturalistic fractal shapes in concentric rings. This base output can be combined with masks, distortion effects, other fractals, and even GeoGlyph's HeightFrag to create large-scale terrains. 
 

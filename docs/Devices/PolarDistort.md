@@ -1,5 +1,3 @@
-# PolarDistort
-##### Device :: Effect
 
 PARAGRAPH
 
