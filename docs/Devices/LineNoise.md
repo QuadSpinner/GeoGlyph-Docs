@@ -1,8 +1,13 @@
-> LineNoise is a geometric generator that creates sets of lines that can be distorted and used with other noises and fractals for creating layered ridges.
+LineNoise is a geometric generator that creates sets of lines that can be distorted and used with other noises and fractals for creating layered ridges.
 
 ## Properties
 
-> - **Type**: Each of the five noise types provide different line patterns.
+- **Type**: Each of the five noise types provide different line patterns.
+	- *Random:*
+	- *Gaussian:*
+	- *Poisson:*
+	- *Impulse:*
+	- *Uniform:*
 - **Clamped**: Clamps the height of the lines.
 - **Eroded**: Applies light thermal erosion to the lines.
 - **Seed**: Random seed of the generator.

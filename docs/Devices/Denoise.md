@@ -9,8 +9,4 @@ A single iteration is appropriate in most cases. For extremely noisy terrains th
 
 Using Denoise over KillSpike is recommended, as it uses a better, more powerful algorithm.
 
-Paragraph
-> **Usage Tip**
-> Tip content
 
-##### Warnings

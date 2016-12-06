@@ -6,5 +6,6 @@ The Gamma device applies Gamma adjustment to the heightfield. It works exactly a
 
 #### Additional Information
 
-> **Usage Tip**
-> Gamma is often a convenient alternative to Equalizer or Bias-Gain.
+[!TIP]
+ Gamma is often a convenient alternative to Equalizer or Bias-Gain.
+ [TIP!]
