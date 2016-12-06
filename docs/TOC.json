@@ -7,7 +7,24 @@
     "href": "Welcome-to-GeoGlyph",
     "level": 1,
     "children": null
-
+  },
+  {
+    "toc_title": "What's new?",
+    "toc_type": "Topic",
+    "homepage": null,
+    "external_link": null,
+    "href": "Getting-Started--Whats-New",
+    "level": 1,
+    "children": null
+  },
+    {
+    "toc_title": "Changelog",
+    "toc_type": "Topic",
+    "homepage": null,
+    "external_link": null,
+    "href": "Changelog",
+    "level": 1,
+    "children": null
   },
   {
     "toc_title": "Getting Started",
@@ -48,6 +65,14 @@
         "homepage": null,
         "external_link": null,
         "href": "Getting-Started--License-Management"
+      },
+      {
+        "toc_title": "Staying Updated",
+        "level": 2,
+        "toc_type": "Topic",
+        "homepage": null,
+        "external_link": null,
+        "href": "Getting-Started--Updates"
       },
       {
         "toc_title": "Administrative Installation",
@@ -2128,19 +2153,19 @@
     ]
   },
   {
-    "toc_title": "Misc",
+    "toc_title": "Miscellaneous",
     "toc_type": "Topic",
     "homepage": null,
     "external_link": null,
     "href": null,
     "level": 1,
-    "children": {
+    "children": [{
       "toc_title": "EULA",
       "level": 2,
       "toc_type": "Topic",
       "homepage": null,
       "external_link": null,
       "href": "Misc--EULA"
-    }
+    }]
   }
 ]
