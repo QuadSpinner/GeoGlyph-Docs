@@ -8,7 +8,7 @@ This is important as GeoGlyph 2's Integrated Development Environment (IDE) wraps
 
 All GeoGlyph-specific functionality is exposed through the **GeoGlyph** menu and the special toolbar available in the far right of the main toolbar.
 
-## Creating devices
+## Creating Devices
 
 The new GeoGlyph IDE gives you 3 methods to access devices and macros:
 1. The enhanced Toolbar with powerful searching and popup Toolbox.

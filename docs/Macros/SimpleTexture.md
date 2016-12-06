@@ -1,6 +1,0 @@
-
-## Properties
-
-### SimpleTexture
-
-- **Emphasis**:

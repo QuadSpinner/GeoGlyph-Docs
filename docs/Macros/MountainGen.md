@@ -1,21 +1,18 @@
-
+PARAGRAPH
 
 ## Properties
 
 ### MountainGen 
-
-- **Scale**: 
-- **Erosion**: 
-- **Sprawl**: 
-- **Bias**: 
-- **Gain**: 
-
+- **Scale**: DESCRIPTION
+- **Erosion**: DESCRIPTION
+- **Sprawl**: DESCRIPTION
+- **Bias**: DESCRIPTION
+- **Gain**: DESCRIPTION
 ### Seeds 
-
-- **Ridges**: 
-- **Base**: 
-- **Character**: 
-- **Secondary**: 
+- **Ridges**: DESCRIPTION
+- **Base**: DESCRIPTION
+- **Character**: DESCRIPTION
+- **Secondary**: DESCRIPTION
 
 
 

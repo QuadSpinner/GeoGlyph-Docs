@@ -1,11 +1,10 @@
-
+PARAGRAPH
 
 ## Properties
 
 ### Bulbous 
-
-- **Passes**: 
-- **Alternate**: 
+- **Passes**: DESCRIPTION
+- **Alternate**: DESCRIPTION
 
 
 

@@ -1,14 +1,13 @@
-
+PARAGRAPH
 
 ## Properties
 
 ### Moonfield 
-
-- **Crater Size**: 
-- **Erosion**: 
-- **Skip Erosion**: 
-- **Wall Thickness**: 
-- **Seed**: 
+- **Crater Size**: DESCRIPTION
+- **Erosion**: DESCRIPTION
+- **Skip Erosion**: DESCRIPTION
+- **Wall Thickness**: DESCRIPTION
+- **Seed**: DESCRIPTION
 
 
 

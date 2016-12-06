@@ -5,17 +5,12 @@ This super macro has a lightweight version of Blizzard built in which allows you
 ## Properties
 
 ### Snow 
-
-- **Amount**: 
-
+- **Amount**: DESCRIPTION
 ### Layers 
-
-- **Accumulation**: 
-- **Strata**: 
-
+- **Accumulation**: DESCRIPTION
+- **Strata**: DESCRIPTION
 ### Blizzard 
-
-- **Direction**: 
-- **Verticality**: 
+- **Direction**: DESCRIPTION
+- **Verticality**: DESCRIPTION
 
 

@@ -1,13 +1,12 @@
-
+PARAGRAPH
 
 ## Properties
 
 ### PerlinRiver 
-
-- **Scale**: 
-- **Shore**: 
-- **Complexity**: 
-- **Seed**: 
+- **Scale**: DESCRIPTION
+- **Shore**: DESCRIPTION
+- **Complexity**: DESCRIPTION
+- **Seed**: DESCRIPTION
 
 
 

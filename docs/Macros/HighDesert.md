@@ -8,12 +8,9 @@ For a vast rocky desert with plateaus, valleys, distinct rock formations, and st
 ## Properties
 
 ### HighDesert 
-
-- **Scale**: 
-- **Stratification**: 
-
+- **Scale**: DESCRIPTION
+- **Stratification**: DESCRIPTION
 ### Seeds 
-
-- **Primary**: 
-- **Surface**: 
+- **Primary**: DESCRIPTION
+- **Surface**: DESCRIPTION
 

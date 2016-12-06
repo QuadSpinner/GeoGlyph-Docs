@@ -1,12 +1,12 @@
 ## General
 
-### Sky colors
+### Sky Colors
 This is the default Sky Colors shown in the Editors.
 
 ### Default Sun
 This is the default position of the sun in the Editors.
 
-### Screenshots options
+### Screenshots Options
 This option lets you set the Work In Progress (WIP)  settings.
 
 #### WIP recorder screenshot interval
@@ -14,7 +14,7 @@ This option lets you set the interval (in seconds) at which the WIP recorder tak
 
 ## Renderer
 
-### Resource usage
+### Resource Usage
 This options sets the RAM limit and Scratch Disk limit used by GeoGlyph.
 
 ### Use OpenCL for parallel processing when available
@@ -22,7 +22,7 @@ This option allows to use OpenCL for parallel processing when available.
 
 ## Paths
 
-### World Machine paths
+### World Machine Paths
 This option lets you set the path for World Machine installations for WM 2.3.7, WM 3.0.3, WM 3.0.11, it also lets you set the path for World Machine Documents and Macros. Changing any of the values in this section will require you to restart GeoGlyph.
 
 ## Privacy

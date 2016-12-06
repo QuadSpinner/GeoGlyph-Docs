@@ -6,9 +6,8 @@ This unique complex generator produces deep lateral flow lines and cracks. The r
 ## Properties
 
 ### Fissure 
-
-- **Scale**: 
-- **Seed**: 
+- **Scale**: DESCRIPTION
+- **Seed**: DESCRIPTION
 
 
 

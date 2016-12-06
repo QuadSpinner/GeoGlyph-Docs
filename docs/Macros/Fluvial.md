@@ -3,7 +3,6 @@ This exciting device creates fluvial erosion lines without eroding the terrain. 
 ## Properties
 
 ### Fluvial 
-
 - **Depth**: Relative depth of the fluvial channels.
 - **Seed**: Random seed.
 - **Flow**: Strength of the fluvial flow lines.

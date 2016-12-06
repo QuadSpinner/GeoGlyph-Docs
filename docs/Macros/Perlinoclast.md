@@ -1,20 +1,17 @@
-
+PARAGRAPH
 
 ## Properties
 
 ### Perlinoclast 
-
-- **Cliffs**: 
-- **Suforms**: 
-- **Fusion**: 
-
+- **Cliffs**: DESCRIPTION
+- **Suforms**: DESCRIPTION
+- **Fusion**: DESCRIPTION
 ### Formation 
-
-- **Signal Direction**: 
-- **Interference Direction**: 
-- **Collapse**: 
-- **Refinement**: 
-- **Seed**: 
+- **Signal Direction**: DESCRIPTION
+- **Interference Direction**: DESCRIPTION
+- **Collapse**: DESCRIPTION
+- **Refinement**: DESCRIPTION
+- **Seed**: DESCRIPTION
 
 
 

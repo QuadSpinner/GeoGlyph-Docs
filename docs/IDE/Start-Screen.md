@@ -7,7 +7,7 @@
 ## Tutorials
 //TODO
 
-## Getting started
+## Getting Started
 > This section lets you go through the documentation for the following:
 - Using the IDE
 - Working with the Build Stack
@@ -32,7 +32,7 @@
 ### Remember
 > When checked GeoGlyph remembers which World Machine version to start next time you launch GeoGlyph.
 
-### Menu on top right
+### Menu on Top right
 > This menu lets you select the commonly used options in GeoGlyph as below:
 - Build Stack
 - GeoGlyph Preference

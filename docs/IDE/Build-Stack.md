@@ -10,7 +10,7 @@
 
 > you mark two builds which are not built in WM3, you will get following error message "Devices.txt missing".
 
-### Build Stack tree view
+### Build Stack Tree view
 > Left side of the Build stack viewer has tree view with projects in build stack. Each tree view item represents the project and each children of the project is the build record which is shown by build date and time. When you select a particular record, you can see the details of that build on the right pane of the dialog. Right clicking any build record gives you a option **Show in Explorer**, it opens the folder location where these build details are stored.
 
 ### Build Stack right pane
@@ -19,9 +19,9 @@
 - Output preview of the build
 - Chart representation of the data
 
-### Build tab
+### Build Tab
 > Shows the list of the devices in the build along with the time taken by each device to build.
-### World tab
+### World Tab
 > If the build is done in WM3, This tab shows the devices list in XML format along with the values of each property of the device.
 ### Build Profile
 > Shows the details of the build profile such as World Resolution, World height and width, terrain maximum elevation and terrain base elevation

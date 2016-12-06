@@ -3,14 +3,11 @@ FIX SUB-TERRACES -> SUBTERRACESNaturalTerrace takes a very different approach fr
 ## Properties
  
 ### Terrace 
-
 - **Terraces**: Quantity of terraces.
 - **Sub-Terraces**: Quantity of subterraces.
 - **Dip**: Degree of the dip in between layers
 - **Direction**: Direction of the terracing.
-
 ### Influences 
-
 - **Slope Maximum**: Maximum degree of slope.
 - **Slope Minimum**: Minimum degree of slope.
 - **Tilt Bias**: Direction bias for tilting the terraces.

@@ -14,32 +14,15 @@ D: Need to rename 'Enigma Properties' (below) to NeoFlow
 ## Properties
 
 ### Erosion 
-- **Strength**: 
-- **Depth**: 
-- **Roughness**: 
-- **Seed**: 
-- **Distortion**:
-	- *Alpha*:
-	- *Beta*:
-	- *Gamma*:
-	- *Delta*:
-	- *Epsilon*:
-- **Pattern**:
-	- *Erosive*:
-	- *Iterative*:
-	- *Displaced*:
-- **Power**:
-	- *None*:
-	- *Moderate*:
-	- *Extreme*:
-- **Complexity**:
-	- *Level 1*:
-	- *Level 2*:
-	- *Level 3*:
-	- *Level 4 (Recommended)*:
-	- *Level 5*:
-	- *Level 6*:
-- **Maps**:
-	- *Generate*:
-	- *Don't Generate*:
-- **Full Erosive Output**: 
+- **Strength**: DESCRIPTION
+- **Depth**: DESCRIPTION
+- **Roughness**: DESCRIPTION
+- **Seed**: DESCRIPTION
+- **Distortion**: DESCRIPTION
+- **Pattern**: DESCRIPTION
+- **Power**: DESCRIPTION
+- **Complexity**: DESCRIPTION
+- **Maps**: DESCRIPTION
+- **Full Erosive Output**: DESCRIPTION
+
+

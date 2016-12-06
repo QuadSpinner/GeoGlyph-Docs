@@ -1,7 +1,0 @@
-
-## Properties
-
-### Stratum
-
-- **Stratification**:
-- **Lip**:

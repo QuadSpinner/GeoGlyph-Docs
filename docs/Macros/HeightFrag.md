@@ -3,13 +3,10 @@ Derived from and augmenting World Machine's Select Height device, HeightFrag add
 ## Properties
 
 ### Altitude 
-
 - **Maximum**: The maximum limit within which the processing takes place.
 - **Minimum**: The minimum limit within which the processing takes place.
 - **Falloff**: Smooths the transition of the effect beyond the limit.
-
 ### Fragmentation 
-
 - **Scale**: Scale of the shape fragments
 - **Seed**: Random seed.
 - **Intensity**: Intensity of the fragmentation

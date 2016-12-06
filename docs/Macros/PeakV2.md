@@ -1,18 +1,17 @@
-
+PARAGRAPH
 
 ## Properties
 
 ### PeakV2 
-
-- **Scale**: 
-- **Ridges**: 
-- **Sprawl**: 
-- **Distort**: 
-- **Erosion**: 
-- **Chaos**: 
-- **Ridge Direction**: 
-- **Stabilize**: 
-- **Seed**: 
+- **Scale**: DESCRIPTION
+- **Ridges**: DESCRIPTION
+- **Sprawl**: DESCRIPTION
+- **Distort**: DESCRIPTION
+- **Erosion**: DESCRIPTION
+- **Chaos**: DESCRIPTION
+- **Ridge Direction**: DESCRIPTION
+- **Stabilize**: DESCRIPTION
+- **Seed**: DESCRIPTION
 
 
 

@@ -4,7 +4,6 @@ You can achieve different results by blending Flow and Deposition data or by usi
 ## Properties
 
 ### GeoFlow 
-
 - **Strength**: Strength of the reflowed erosion.
 - **Bias**: Directional bias for the flow.
 - **Depth**: Depth of the flow channels.

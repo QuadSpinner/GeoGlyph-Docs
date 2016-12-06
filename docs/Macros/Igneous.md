@@ -12,14 +12,11 @@ This macro is an excellent choice for creating expansive terrain floors, and can
 ## Properties
 
 ### Igneous 
-
-- **Scale**: 
-- **Warp**: 
-- **Roughness**: 
-
+- **Scale**: DESCRIPTION
+- **Warp**: DESCRIPTION
+- **Roughness**: DESCRIPTION
 ### Seeds 
-
-- **Primary**: 
-- **Turbulence**: 
-- **Surface**: 
+- **Primary**: DESCRIPTION
+- **Turbulence**: DESCRIPTION
+- **Surface**: DESCRIPTION
 

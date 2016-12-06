@@ -1,4 +1,4 @@
-## Inception of terrenderer
+## Inception of Terrenderer
 We are a proud contributor to the World Machine ecosystem and are equally excited about the direction of terrain design. GeoGlyph 2.0, its modern new interface, and first ever external synthesizer are stirring things up! 
 
 When we began developing GeoGlyph 1.0 for both World Machine 2 & 3, we faced compatibility issues. This is normal. 3dsmax 2010 and 3dsmax 2016 are widely different under the hood, for example. We also met limitations in what we could do inside World Machine with our macros. This led to the inception of our fully external engine, Terrenderer (pronounced *T·ren′der·er*). External engines are quite common in CG. Popular packages such as V-Ray, Corona, Octane, and even Vue xStream all run outside their host environment. 

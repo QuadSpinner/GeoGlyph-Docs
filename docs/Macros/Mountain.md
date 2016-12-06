@@ -12,18 +12,15 @@ Mountain's complex generation is achieved through a few simple controls and rend
 ## Properties
 
 ### Factors 
-
-- **Scale**: 
-- **Mountains**: 
-- **Base**: 
-
+- **Scale**: DESCRIPTION
+- **Mountains**: DESCRIPTION
+- **Base**: DESCRIPTION
 ### Seeds 
-
-- **Primary**: 
-- **Turbulence**: 
-- **Surface**: 
-- **Modulation**: 
-- **Mountain 2.0**: 
-- **Ratio**: 
+- **Primary**: DESCRIPTION
+- **Turbulence**: DESCRIPTION
+- **Surface**: DESCRIPTION
+- **Modulation**: DESCRIPTION
+- **Mountain 2.0**: DESCRIPTION
+- **Ratio**: DESCRIPTION
 
 

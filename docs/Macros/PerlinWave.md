@@ -9,9 +9,8 @@ This macro can be used to supplement or replace WM's fundamental Perlin and Voro
 ## Properties
 
 ### PerlinWave 
-
-- **Scale**: 
-- **Seed**: 
+- **Scale**: DESCRIPTION
+- **Seed**: DESCRIPTION
 
 
 

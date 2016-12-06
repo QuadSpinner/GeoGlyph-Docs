@@ -7,12 +7,9 @@ Additional information, usage guidelines, and the like should go into the second
 ### Group-Name (if any)
 
 - **PROPERTY-NAME**: Description of the property.
-
-#### Multiple Choice
-A dropdown with multiple choices should be given its own subheading inside a group. Describe every single option. Keep descriptions to a single sentence. Additional information should go into a [NOTE] tag below. 
-
-- **Choice A**: Description.
-- **Choice B**: Description.
+- **DROPDOWN**: Description of property
+    - *Option A*: Description.
+    - *Option B*: Description.
 
 ---
 

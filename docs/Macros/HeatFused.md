@@ -1,13 +1,12 @@
-
+PARAGRAPH
 
 ## Properties
 
-### HeatFused
- 
-- **Scale**: 
-- **Depth**: 
-- **Fused**: 
-- **Seed**: 
+### HeatFused 
+- **Scale**: DESCRIPTION
+- **Depth**: DESCRIPTION
+- **Fused**: DESCRIPTION
+- **Seed**: DESCRIPTION
 
 
 

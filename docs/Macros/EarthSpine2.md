@@ -1,20 +1,17 @@
-
+PARAGRAPH
 
 ## Properties
 
 ### EarthSpine2 
-
-- **Scale**: 
-- **Features**: 
-- **Direction**: 
-- **Erosion**: 
-- **Accumulation**: 
-
-### Seeds
- 
-- **Base**: 
-- **Rivers**: 
-- **Mountains**: 
+- **Scale**: DESCRIPTION
+- **Features**: DESCRIPTION
+- **Direction**: DESCRIPTION
+- **Erosion**: DESCRIPTION
+- **Accumulation**: DESCRIPTION
+### Seeds 
+- **Base**: DESCRIPTION
+- **Rivers**: DESCRIPTION
+- **Mountains**: DESCRIPTION
 
 
 

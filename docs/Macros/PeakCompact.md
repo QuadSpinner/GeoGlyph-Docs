@@ -3,7 +3,6 @@ Based on KillSpike's lossless code and PeakDetect's altitude-agnostic masking, P
 ## Properties
 
 ### PeakCompact 
-
 - **Detection**: Sensitivity employed to detect peaks.
 - **Aggression**: Aggressiveness employed to compact peaks.
 

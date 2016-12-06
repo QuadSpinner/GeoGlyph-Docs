@@ -1,20 +1,17 @@
-
+PARAGRAPH
 
 ## Properties
 
 ### Fault 
-
-- **Width**: 
-- **Angle**: 
-- **Depth**: 
-- **Chaos**: 
-- **Seed**: 
-
-### Range
-
-- **Range**: 
-- **Strength**: 
-- **Floor**: 
+- **Width**: DESCRIPTION
+- **Angle**: DESCRIPTION
+- **Depth**: DESCRIPTION
+- **Chaos**: DESCRIPTION
+- **Seed**: DESCRIPTION
+### Range 
+- **Range**: DESCRIPTION
+- **Strength**: DESCRIPTION
+- **Floor**: DESCRIPTION
 
 
 

@@ -3,7 +3,6 @@ Based on your sensitivity settings, PeakDetect identifies peaks and ridges, and 
 ## Properties
 
 ### PeakDetect 
-
 - **Detection**: Sensitivity employed to detect peaks.
 
 

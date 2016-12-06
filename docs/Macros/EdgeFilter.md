@@ -1,14 +1,13 @@
-
+PARAGRAPH
 
 ## Properties
 
 ### EdgeFilter 
-
-- **Softness**: 
-- **Scale**: 
-- **Strength**: 
-- **x**: 
-- **y**: 
+- **Softness**: DESCRIPTION
+- **Scale**: DESCRIPTION
+- **Strength**: DESCRIPTION
+- **x**: DESCRIPTION
+- **y**: DESCRIPTION
 
 
 

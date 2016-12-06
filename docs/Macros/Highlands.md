@@ -12,13 +12,10 @@ The macro exposes a special mask for rocks and rock clusters.
 ## Properties
 
 ### Generator 
-
-- **Scale**: 
-- **Complexity**: 
-
+- **Scale**: DESCRIPTION
+- **Complexity**: DESCRIPTION
 ### Seeds 
-
-- **Primordial**: 
-- **Tactile**: 
+- **Primordial**: DESCRIPTION
+- **Tactile**: DESCRIPTION
 
 
