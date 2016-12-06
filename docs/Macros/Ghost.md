@@ -3,9 +3,12 @@ Breaking away from the signature World Machine shapes, Ghost distorts terrains a
 ## Properties
 
 ### Ghost 
+
 - **Intensity**: Intensity of the terrain distortion.
-- **Anchor**: DESCRIPTION
-### Altitude 
+- **Anchor**: 
+
+### Altitude
+
 - **Maximum**: The maximum limit within which the processing takes place.
 - **Minimum**: The minimum limit within which the processing takes place.
 - **Transition**: Smooths the transition of the effect beyond the limit.
