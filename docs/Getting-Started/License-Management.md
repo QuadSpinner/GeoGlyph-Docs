@@ -9,7 +9,9 @@ GeoGlyph 2.0 features a flexible, hassle-free licensing system. It is no longer 
 1. GeoGlyph will be instantly authorized.
 
 [!NOTE]
+
 GeoGlyph 2.0 does not use .txt files for licenses like GeoGlyph 1.0. The new format is `.GG2`. The key filename is typically `YourName_Edition_ID.gg2`.
+
 [NOTE!] 
 
 ## Deauthorizing your copy
