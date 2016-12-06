@@ -3,7 +3,7 @@
 #### Properties
 - **Degrees**: The amount by which the heightfield is rotated. The range is 0 to 360 degrees.
 
-#### Additional Information
+#### Additional information
 > Rotator works in a similar fashion as World Machine 3's Rotate Distortion input. However, unlike the distortion input, the Rotator device can be implemented at any point in your graph as it is a post-process effect.
 
 Rotator works in its own localspace. Even when you are working in world space, the Rotator device can only read what is in the current render extents. It will mirror edge pixels when it encounters empty areas outside of the extents which become visible at odd angles.

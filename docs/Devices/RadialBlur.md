@@ -4,7 +4,7 @@
 
 - **Amount**: The amount of radial blurring applied to the terrain.
 
-#### Additional Information
+#### Additional information
 > Using a mask with this effect is highly recommended as the terrain may look unnatural if applied uniformly.
 
 Paragraph

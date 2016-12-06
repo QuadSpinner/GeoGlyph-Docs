@@ -7,5 +7,5 @@
 - **Eroded**: Applies light thermal erosion to the lines.
 - **Seed**: Random seed of the generator.
 
-#### Additional Information
+#### Additional information
 See example file LineNoise.tmd for various usage techniques.

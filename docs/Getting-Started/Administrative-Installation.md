@@ -30,7 +30,7 @@ Set these to 0 or 1 as required.
 3. Microsoft .NET Framework 4.5.1 or higher
 4. Latest Drivers for CPU and GPU to utilize OpenCL
 
-## Example Command Line
+## Example command line
 > `
 > msiexec.exe -i "C:\Path\To\GeoGlyph.msi" 
 > IS236=1 
@@ -41,6 +41,6 @@ Set these to 0 or 1 as required.
 > `
 
 
-## License Management
+## License management
 
 At the moment, licenses need to be [installed manually](Getting-Started--License-Management). In a near future update, we will add license deployment to command line installations.

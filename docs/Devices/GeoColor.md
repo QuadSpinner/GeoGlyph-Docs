@@ -17,7 +17,7 @@ The following properties are only available with the Extrapolator module.
 - **Fuzzy Sampling**: 
 - **Rotate**: 
 
-#### Additional Information
+#### Additional information
 Paragraph
 
 Paragraph

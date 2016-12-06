@@ -10,7 +10,7 @@ The following properties are available for both the Macro Force (A) and Micro Fo
 - **Churn**: Direction of vorticity. This setting allows you to define an additional direction that can cause vorticity in the flow. At angles just less than perpendicular from the Flow, a definite churning pattern can be achieved.
 - **Intensity**: This is the overall intensity (iterations) of the erosive process. Higher values yield better and stronger erosion but sacrifices build speed.
 
-#### Additional Information
+#### Additional information
 A great way to create a river environment is to use RiverErosion on a blurred mask from the River, and then apply Hydro erosion to the bottom half of the mask. A practical example of this can be found in "River + RiverErosion + Hydro.tmd" in the GeoGlyph Examples.
 
 Paragraph

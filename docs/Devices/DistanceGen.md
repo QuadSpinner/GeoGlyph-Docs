@@ -10,5 +10,5 @@ This generator creates sets of "cells" at three different heights: 0% (Black), 5
 - **Curved**: Softens the hard edges of the cells.
 - **Thermal**: Applies light thermal erosion to the cells.
 
-#### Additional Information
+#### Additional information
 See the example file: DistanceGen.tmd for various usage techniques.
