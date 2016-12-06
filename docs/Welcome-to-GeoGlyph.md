@@ -7,3 +7,5 @@ GeoGlyph is a massive jump forward in terrain design. This version not only enha
 Once you have [downloaded and installed](Getting-Started--Installation) GeoGlyph 2, you can see the **[Getting Around](Getting-Started--Getting-Around)** page for essential information on using GeoGlyph 2 to its maximum potential.
 
 If you have purchased GeoGlyph 2, see the [Licensing page](Getting-Started--License-Management) to learn how to authorize your copy.
+
+// -
