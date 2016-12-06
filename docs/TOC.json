@@ -70,49 +70,58 @@
         "href": "IDE--Start-Screen"
       },
       {
-        "toc_title": "Toolbox",
+        "toc_title": "IDE Tools",
         "level": 2,
-        "href": "IDE--Toolbox"
+        "href": null,
+        "children": [
+          {
+            "toc_title": "Toolbox",
+            "level": 3,
+            "href": "IDE--Toolbox"
+          },
+          {
+            "toc_title": "Device Editor",
+            "level": 3,
+            "href": "IDE--Device-Editor"
+          },
+          {
+            "toc_title": "Build Stack",
+            "level": 3,
+            "href": "IDE--Build-Stack"
+          },
+          {
+            "toc_title": "WIP Recorder",
+            "level": 3,
+            "href": "IDE--WIP-Recorder"
+          },
+          {
+            "toc_title": "Learning Sidebar",
+            "level": 3,
+            "href": "IDE--Learning-Sidebar"
+          }
+        ]
       },
       {
-        "toc_title": "WIP Recorder",
+        "toc_title": "Color Production",
         "level": 2,
-        "href": "IDE--WIP-Recorder"
-      },
-      {
-        "toc_title": "Build Stack",
-        "level": 2,
-        "href": "IDE--Build-Stack"
-      },
-      {
-        "toc_title": "Device Editor",
-        "level": 2,
-        "href": "IDE--Device-Editor"
-      },
-      {
-        "toc_title": "Feedback",
-        "level": 2,
-        "href": "IDE--Feedback"
-      },
-      {
-        "toc_title": "GeoColor",
-        "level": 2,
-        "href": "IDE--GeoColor"
+        "href": null,
+        "children": [
+            {
+              "toc_title": "GeoColor",
+              "level": 3,
+              "href": "IDE--GeoColor"
+            },
+            {
+              "toc_title": "Map Browser",
+              "level": 3,
+              "href": "IDE--Map-Browser"
+            }
+        ]
       },
       {
         "toc_title": "GeoGlyph Options",
         "level": 2,
         "href": "IDE--GeoGlyph-Options"
-      },
-      {
-        "toc_title": "Learning Sidebar",
-        "level": 2,
-        "href": "IDE--Learning-Sidebar"
-      },
-      {
-        "toc_title": "Map Browser",
-        "level": 2,
-        "href": "IDE--Map-Browser"
       }
     ]
   },
