@@ -13,4 +13,8 @@ For more information about the changes in GeoGlyph 2, see [Whats New](Getting-St
 
 If you have purchased GeoGlyph 2, see the [Licensing page](Getting-Started--License-Management) to learn how to authorize your copy.
 
+<<<<<<< HEAD
 //-
+=======
+// -
+>>>>>>> 60d7c7d688b2adbe2fdc6a704e3881a770d16e0a
