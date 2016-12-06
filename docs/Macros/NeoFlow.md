@@ -2,8 +2,6 @@ NeoFlow is a brand new form of erosion that builds on WM's existing erosion prow
 
 Great for expansive slopes, NeoFlow maintains the form of the terrain, even with aggressive erosion. And NeoFlow is very easy to use. The macro's smart logic enables you to control flow roughness, depth, and erosion strength with a few simple settings.
 
-D: Need to rename 'Enigma Properties' (below) to NeoFlow
-
 - A new form of erosion for World Machine that builds on top of WM's existing erosion powers
 - Avoids the "typical" World Machine eroded look
 - Great for expansive slopes

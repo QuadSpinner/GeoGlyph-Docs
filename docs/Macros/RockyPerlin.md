@@ -1,4 +1,3 @@
-PARAGRAPH
 
 ## Properties
 
