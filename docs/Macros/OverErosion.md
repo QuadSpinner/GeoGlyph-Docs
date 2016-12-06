@@ -3,16 +3,21 @@ Using erosion data, OverErosion extrapolates how additional erosion will affect 
 ## Properties
  
 ### OverErosion 
+
 - **Erosion**: Intensity of the erosion flow.
 - **Sensitivity**: Controls the soil's flow-sensitivity towards fluvial erosion.
 - **Soft Soil**: Concentration of fluvial soft soil.
+
 ### Altitude 
+
 - **Maximum**: The maximum limit within which the processing takes place.
 - **Minimum**: The minimum limit within which the processing takes place.
 - **Transition**: Smooths the falloff of the effect beyond the limit.
+
 ### Sedimentary buildup 
-- **Buildup**: DESCRIPTION
-- **Sensitivity**: DESCRIPTION
-- **Height Control**: DESCRIPTION
+
+- **Buildup**: 
+- **Sensitivity**: 
+- **Height Control**: 
 
 

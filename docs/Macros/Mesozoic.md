@@ -9,13 +9,16 @@ A blend of solid rough surfaces and smooth, water-worn undulations, Mesozoic all
 ## Properties
 
 ### Mesozoic 
-- **Scale**: DESCRIPTION
-- **Indentation**: DESCRIPTION
-- **Formations**: DESCRIPTION
+
+- **Scale**: 
+- **Indentation**: 
+- **Formations**: 
+
 ### Seeds 
-- **Primary**: DESCRIPTION
-- **Turbulence**: DESCRIPTION
-- **Surface**: DESCRIPTION
-- **Modulation**: DESCRIPTION
+
+- **Primary**: 
+- **Turbulence**: 
+- **Surface**: 
+- **Modulation**: 
 
 

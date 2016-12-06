@@ -9,11 +9,11 @@ EarthSpine is a powerful generator for creating scenic mountain ranges or rollin
 ## Properties
 
 ### EarthSpine  
-- **Scale**: DESCRIPTION
+- **Scale**: 
 ### Seeds 
-- **Primary**: DESCRIPTION
-- **Turbulence**: DESCRIPTION
-- **Surface**: DESCRIPTION
-- **Modulation**: DESCRIPTION
+- **Primary**: 
+- **Turbulence**: 
+- **Surface**: 
+- **Modulation**: 
 
 

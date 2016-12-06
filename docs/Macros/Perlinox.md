@@ -3,6 +3,7 @@ Perlinox is a unique new fractal generator that creates naturalistic fractal sha
 ## Properties
 
 ### Perlinox 
+
 - **Scale**: Scale of the fractal
 - **Extents**: Expansion of the fractal boundary
 - **Seed**: Random Seed
