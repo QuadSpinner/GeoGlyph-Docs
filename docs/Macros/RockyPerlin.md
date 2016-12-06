@@ -4,12 +4,13 @@ PARAGRAPH
 
 
 ### RockyPerlin 
-- **Scale**: DESCRIPTION
-- **Complexity**: DESCRIPTION
-- **Steepness**: DESCRIPTION
-- **Seed**: DESCRIPTION
-- **Erosion**: DESCRIPTION
-- **Wet**: DESCRIPTION
+
+- **Scale**: 
+- **Complexity**: 
+- **Steepness**: 
+- **Seed**: 
+- **Erosion**: 
+- **Wet**: 
 
 
 

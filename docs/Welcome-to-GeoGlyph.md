@@ -12,3 +12,5 @@ For more information about the changes in GeoGlyph 2, see [Whats New](Getting-St
 - [GeoGlyph Terrain Engine](Getting-Started--GeoGlyph-Terrain-Engine): Understand the new engine that powers GeoGlyph 2. 
 
 If you have purchased GeoGlyph 2, see the [Licensing page](Getting-Started--License-Management) to learn how to authorize your copy.
+
+//-

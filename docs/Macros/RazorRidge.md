@@ -11,8 +11,9 @@ C: We can also take out any mention of "does not use Erosion" - we can make that
 ## Properties
 
 ### RazorRidge 
-- **Scale**: DESCRIPTION
-- **Seed**: DESCRIPTION
+
+- **Scale**: 
+- **Seed**: 
 
 
 

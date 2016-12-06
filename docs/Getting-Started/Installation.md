@@ -20,7 +20,7 @@ The new installer provides a fast, efficient, and automated method of installing
 5. Proceed with installation.
 6. Once installation is complete, run GeoGlyph 2 from the Start Menu or Desktop.
 
-## Troubleshoot Path Detection
+## Troubleshoot path detection
 The installer can have difficulty detecting the correct paths, especially with World Machine Standard Edition. If this happens, the installer will show you a warning dialog saying that paths were not detected properly. To install GeoGlyph successfully in this case, you will have to point GeoGlyph to the correct paths.
 
 Use the **drop-down icon** next to each component, select "Install Locally". Then select the item in the list, and click the **Browse** to locate the correct path for that component.
@@ -31,7 +31,7 @@ If you have trouble selecting the paths, use the Path Guide below, and [watch th
 
 [TIP!]
 
-### Path Guide
+### Path guide
 - World Machine 2.3.7 is typically installed in *C:\Program Files (x86)\World Machine 2 Professional*
 - World Machine 3.0.x builds are typically installed in *C:\Program Files (x86)\World Machine Professional Edition Development Version*
 - World Machine Documents are typically installed in *C:\Users\[YOU]\Documents\World Machine Documents*

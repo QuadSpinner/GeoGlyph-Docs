@@ -1,12 +1,13 @@
-PARAGRAPH
+
 
 ## Properties
 
 ### Alien 
-- **Scale**: DESCRIPTION
-- **Bump**: DESCRIPTION
-- **Flat**: DESCRIPTION
-- **Seed**: DESCRIPTION
+
+- **Scale**: 
+- **Bump**: 
+- **Flat**: 
+- **Seed**: 
 
 
 
