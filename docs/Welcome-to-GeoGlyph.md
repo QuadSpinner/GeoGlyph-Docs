@@ -2,7 +2,7 @@
 
 GeoGlyph is a massive jump forward in terrain design. This version not only enhances your terrain design experience with powerful macros, but also introduces a complete new terrain render engine to World Machine, as well as a new, revitalized user interface.
 
-## Getting Started
+## Getting started
 
 Once you have [downloaded and installed](Getting-Started--Installation) GeoGlyph 2, you can see the **[Getting Around](Getting-Started--Getting-Around)** page for essential information on using GeoGlyph 2 to its maximum potential.
 
