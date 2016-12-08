@@ -4,10 +4,11 @@ GeoShape produces impressive color maps when combined with GeoGlyph's HeightFrag
 ## Properties
 
 ### GeoShape 
-- **Scale**: DESCRIPTION
-- **Seed**: DESCRIPTION
+
+- **Scale**: 
+- **Seed**: 
 - **Enhancement**: Accentuates detail of larger geological formations.
-- **Sensitivity**: DESCRIPTION
-- **Exposure**: DESCRIPTION
+- **Sensitivity**: 
+- **Exposure**: 
 
 

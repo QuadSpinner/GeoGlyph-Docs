@@ -1,0 +1,1 @@
+This page lists all the release builds for GeoGlyph 2.0.

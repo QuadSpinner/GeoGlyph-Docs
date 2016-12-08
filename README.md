@@ -1,7 +1,10 @@
 # Branch Structure
 
 ### DEV
-This is branch where the version for distribution is going to be kept. Please target all your commits here.
+This is the branch where the version for distribution is going to be kept. Please target all your commits here.
+
+### DYLAN
+This is the branch where Dylan will be working. We will pull into Dev from this branch.
 
 ### MASTER
 This is the branch that will be compiled into the shipping version. DO NOT MAKE MODIFICATIONS TO THIS BRANCH unless you're one of the admins on the project.

@@ -1,4 +1,5 @@
 BY INSTALLING THIS SOFTWARE YOU ACKNOWLEDGE THAT YOU HAVE READ THIS AGREEMENT, UNDERSTAND IT, AND AGREE TO BE BOUND BY ITS TERMS AND CONDITIONS. IF YOU DO NOT AGREE TO THE TERMS OF THIS AGREEMENT, DO NOT INSTALL, COPY OR USE THE SOFTWARE.  
+
 This END USER LICENSE AGREEMENT ("Agreement") is made by and between QuadSpinner, an internal division of Nukeation Studios, a company registered in India at 380 Aiya Nagar, Bhuj, Gujarat 370 001, ("QuadSpinner"), and you, as either an individual or a single entity ("Licensee").  
 
 Both parties agree to the terms and conditions below:  

@@ -8,9 +8,10 @@ Ridge is an excellent base generator for large fields or distant terrains, upon 
 ## Properties
 
 ### Generator 
-- **Scale**: DESCRIPTION
-- **Warp**: DESCRIPTION
-- **Seed**: DESCRIPTION
+
+- **Scale**: 
+- **Warp**: 
+- **Seed**: 
 
 
 

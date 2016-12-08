@@ -1,6 +1,6 @@
-[!WARNING]
+[!NOTE]
 Administrative installation is meant for IT Administrators and experienced power users only
-[WARNING!]
+[NOTE!]
 
 GeoGlyph's MSI installer is designed to detect and install GeoGlyph dependencies into the appropriate World Machine installations. If the target computer has multiple versions of World Machine, a standard installation is recommended.
 

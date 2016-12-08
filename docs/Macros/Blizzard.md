@@ -5,14 +5,19 @@ Combining Blizzard with GeoGlyph's SnowDrift will also give you dramatic results
 ## Properties
 
 ### Blizzard 
+
 - **Flow**: How far the snow flows.
 - **Buildup**: The rise of the snow buildup.
 - **Intensity**: Increases the intensity of the buildup.
+
 ### Accumulation 
+
 - **Normal**: Snow accumulation on the overall terrain.
 - **Dispersion**: Snow dispersion near snowbank edges.
+
 ### Wind 
-- **Direction **: Sets the originating direction of the blizzard and where the snow gathers.
+
+- **Direction**: Sets the originating direction of the blizzard and where the snow gathers.
 - **Strength**: The strength with which the blizzard deposits snow.
 
 

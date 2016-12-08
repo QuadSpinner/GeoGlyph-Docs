@@ -1,8 +1,8 @@
-PARAGRAPH
+
 
 ## Properties
 
-- **Amount**: DESCRIPTION
+- **Amount**: 
 
 
 

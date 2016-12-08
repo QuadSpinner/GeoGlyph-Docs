@@ -2,9 +2,9 @@ Hydro is a new erosion device that runs on the GeoGlyph Terrain Engine. Hydro wo
 
 ## Properties
 
-- **Amount**: DESCRIPTION
-- **Intensity**: DESCRIPTION
-- **Detailed**: DESCRIPTION
+- **Amount**: 
+- **Intensity**: 
+- **Detailed**: 
 
 
 

@@ -1,9 +1,13 @@
-## What is GeoGlyph 2?
+Welcome to GeoGlyph 2! GeoGlyph is a suite of plugins that enables sophisticated terrain design in [World Machine](http://world-machine.com) 2.x and 3x. The [GeoGlyph IDE](IDE--Introduction-to-the-IDE), or Integrated Design Environment, provides an updated interface with modern productivity tools for World Machine.
 
+Download the [Community Edition](http://store.quadspinner.com) for free to start exploring a new world of terrain design right away. If you're a professional artist who requires even more power try the [Indie](http://store.quadspinner.com) and [Professional](http://store.quadspinner.com) editions. For a full comparison, [click here](...).
+
+## What's new in GeoGlyph 2?
 GeoGlyph is a massive jump forward in terrain design. This version not only enhances your terrain design experience with powerful macros, but also introduces a complete new terrain render engine to World Machine, as well as a new, revitalized user interface.
 
+For more information about the changes in GeoGlyph 2, see [Whats New](Getting-Started--Whats-New).
+
 ## Getting Started
-
-Once you have [downloaded and installed](Getting-Started--Installation) GeoGlyph 2, you can see the **Getting Around** page for essential information on using GeoGlyph 2 to its maximum potential.
-
-If you have purchased GeoGlyph 2, see the [Licensing page](Getting-Started--License-Management) to learn how to authorize your copy.
+- [Installation](Getting-Started--Installation): Learn about the installation process.
+- [Getting Around](Getting-Started--Getting-Around): Take a tour of the new tools and interfaces.
+- [GeoGlyph Terrain Engine](Getting-Started--GeoGlyph-Terrain-Engine): Understand the new engine that powers GeoGlyph 2.
