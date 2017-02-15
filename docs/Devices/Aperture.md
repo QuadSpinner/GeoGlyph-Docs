@@ -7,8 +7,8 @@ The Aperture device expands or compacts every single feature on the terrain, sim
     - *Expand:*
 - **Iterations**: Number of aperture passes to perform on the terrain. Higher number of passes create pronounced effect at the expense of speed.
 - **Kernel**: The Kernel is the shape of the aperture. Changing the kernel can change how the features on the terrain are modified.
-    - *Disk*: Large, circular formation.
-    - *Diamond*: Small, diagonal squares.
+    - *Disk:* Large, circular formation.
+    - *Diamond* - Small, diagonal squares.
     - *Cross*: Small cross pattern. Can create predictable shape, use with masking for best results.
     - *Octagon*: Large, octagonal formation.
     - *Rectangle*: Large, diagonal squares.
