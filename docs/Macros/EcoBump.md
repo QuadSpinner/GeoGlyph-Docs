@@ -3,6 +3,7 @@ EcoBumps is a unique solution for creating large aerial-view forests and jungles
 ## Properties
 
 ### EcoBump 
+
 - **Protrusion**: The extent of the protruding shapes.
 - **Seed**: Random seed.
 

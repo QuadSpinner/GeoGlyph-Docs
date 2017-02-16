@@ -3,12 +3,15 @@ Plateau is a robust large-scale terrain generator. This macro takes a Layout-dra
 ## Properties
 
 ### Plateau 
+
 - **Scale**: Size of the plateau.
 - **Ceiling**: Maximum height of the plateau.
 - **Turbulence**: Amount of turbulence in the base formation
 - **Soil Deposits**: Amount of soil deposition from erosion
 - **Equalize**: Amount of arbitrary equalization for the final shape
-### Adjustments 
+
+### Adjustments
+ 
 - **Bias**: Built-in Bias
 - **Gain**: Built-in Gain
 

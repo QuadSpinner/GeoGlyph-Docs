@@ -3,13 +3,16 @@ Mesa takes a standard heightfield and refactors it into the iconic Monument Vall
 ## Properties
 
 ### Mesa 
+
 - **Peak**: Ratio for peak vs. mesa
 - **Scale**: Size of the individual formations.
 - **Canyonization**: Canyonization of the butte.
 - **Seed**: Random seed.
+
 ### Erosion 
-- **Stratification**: DESCRIPTION
-- **Pattern**: DESCRIPTION
-- **Influence**: DESCRIPTION
+
+- **Stratification**: 
+- **Pattern**: 
+- **Influence**: 
 
 

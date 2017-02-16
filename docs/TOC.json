@@ -1,636 +1,407 @@
 [
   {
     "toc_title": "Welcome to GeoGlyph 2",
-    "toc_type": "Topic",
-    "homepage": null,
-    "external_link": null,
     "href": "Welcome-to-GeoGlyph",
     "level": 1,
     "children": null
-
+  },
+  {
+    "toc_title": "What's new?",
+    "href": "Getting-Started--Whats-New",
+    "level": 1,
+    "children": null
+  },
+  {
+    "toc_title": "Changelog",
+    "href": "Changelog",
+    "level": 1,
+    "children": null
   },
   {
     "toc_title": "Getting Started",
-    "toc_type": "Topic",
-    "homepage": null,
-    "external_link": null,
     "href": null,
     "level": 1,
     "children": [
       {
         "toc_title": "Installation",
         "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
         "href": "Getting-Started--Installation"
       },
       {
         "toc_title": "Getting Around",
         "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
         "href": "Getting-Started--Getting-Around"
       },
       {
         "toc_title": "GeoGlyph Terrain Engine",
         "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "6666"
+        "href": "Getting-Started--GeoGlyph-Terrain-Engine"
       },
       {
         "toc_title": "License Management",
         "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "6666"
+        "href": "Getting-Started--License-Management"
+      },
+      {
+        "toc_title": "Staying Updated",
+        "level": 2,
+        "href": "Getting-Started--Updates"
       },
       {
         "toc_title": "Administrative Installation",
         "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
         "href": "Getting-Started--Administrative-Installation"
       }
     ]
   },
   {
     "toc_title": "Integrated Design Environment",
-    "toc_type": "Topic",
-    "homepage": null,
-    "external_link": null,
     "href": null,
     "level": 1,
     "children": [
       {
         "toc_title": "Introduction to the IDE",
         "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "6666"
+        "href": "IDE--Introduction-to-the-IDE"
       },
       {
         "toc_title": "Start Screen",
         "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
         "href": "IDE--Start-Screen"
       },
       {
-        "toc_title": "Toolbox",
+        "toc_title": "IDE Tools",
         "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "IDE--Toolbox"
+        "href": null,
+        "children": [
+          {
+            "toc_title": "Toolbox",
+            "level": 3,
+            "href": "IDE--Toolbox"
+          },
+          {
+            "toc_title": "Device Editor",
+            "level": 3,
+            "href": "IDE--Device-Editor"
+          },
+          {
+            "toc_title": "Build Stack",
+            "level": 3,
+            "href": "IDE--Build-Stack"
+          },
+          {
+            "toc_title": "WIP Recorder",
+            "level": 3,
+            "href": "IDE--WIP-Recorder"
+          },
+          {
+            "toc_title": "Learning Sidebar",
+            "level": 3,
+            "href": "IDE--Learning-Sidebar"
+          }
+        ]
       },
       {
-        "toc_title": "WIP Recorder",
+        "toc_title": "Color Production",
         "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "IDE--WIP-Recorder"
-      },
-      {
-        "toc_title": "Build Stack",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "IDE--Build-Stack"
-      },
-      {
-        "toc_title": "Device Editor",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "IDE--Device-Editor"
-      },
-      {
-        "toc_title": "Feedback",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "IDE--Feedback"
-      },
-      {
-        "toc_title": "GeoColor",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "6666"
+        "href": null,
+        "children": [
+            {
+              "toc_title": "GeoColor",
+              "level": 3,
+              "href": "IDE--GeoColor"
+            },
+            {
+              "toc_title": "Map Browser",
+              "level": 3,
+              "href": "IDE--Map-Browser"
+            }
+        ]
       },
       {
         "toc_title": "GeoGlyph Options",
         "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
         "href": "IDE--GeoGlyph-Options"
-      },
-      {
-        "toc_title": "Learning Sidebar",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "IDE--Learning-Sidebar"
-      },
-      {
-        "toc_title": "Map Browser",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "6666"
       }
     ]
   },
   {
     "toc_title": "Device Reference",
-    "toc_type": "Topic",
-    "homepage": null,
-    "external_link": null,
     "href": null,
     "level": 1,
     "children": [
       {
         "toc_title": "By Name",
         "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
         "href": null,
         "children": [
           {
             "toc_title": "Aperture",
             "level": 3,
-            "toc_type": "Topic",
-            "homepage": null,
-            "external_link": null,
             "href": "Devices--Aperture"
           },
           {
             "toc_title": "Apex",
             "level": 3,
-            "toc_type": "Topic",
-            "homepage": null,
-            "external_link": null,
-            "href": "6666"
+            "href": "Devices--Apex"
           },
           {
             "toc_title": "AutoLevel",
             "level": 3,
-            "toc_type": "Topic",
-            "homepage": null,
-            "external_link": null,
             "href": "Devices--AutoLevel"
           },
           {
             "toc_title": "Blocky",
             "level": 3,
-            "toc_type": "Topic",
-            "homepage": null,
-            "external_link": null,
-            "href": "6666"
+            "href": "Devices--Blocky"
           },
           {
             "toc_title": "Buildup",
             "level": 3,
-            "toc_type": "Topic",
-            "homepage": null,
-            "external_link": null,
             "href": "Devices--Buildup"
           },
           {
             "toc_title": "Cells",
             "level": 3,
-            "toc_type": "Topic",
-            "homepage": null,
-            "external_link": null,
             "href": "Devices--Cells"
           },
           {
             "toc_title": "CTerrace",
             "level": 3,
-            "toc_type": "Topic",
-            "homepage": null,
-            "external_link": null,
-            "href": "6666"
+            "href": "Devices--CTerrace"
           },
           {
             "toc_title": "Collapse",
             "level": 3,
-            "toc_type": "Topic",
-            "homepage": null,
-            "external_link": null,
             "href": "Devices--Collapse"
           },
           {
             "toc_title": "Denoise",
             "level": 3,
-            "toc_type": "Topic",
-            "homepage": null,
-            "external_link": null,
             "href": "Devices--Denoise"
           },
           {
             "toc_title": "Despeckle",
             "level": 3,
-            "toc_type": "Topic",
-            "homepage": null,
-            "external_link": null,
             "href": "Devices--Despeckle"
           },
           {
             "toc_title": "DistanceGen",
             "level": 3,
-            "toc_type": "Topic",
-            "homepage": null,
-            "external_link": null,
             "href": "Devices--DistanceGen"
+          },
+          {
+            "toc_title": "Fusion",
+            "level": 3,
+            "href": "Devices--Fusion"
           },
           {
             "toc_title": "Gamma",
             "level": 3,
-            "toc_type": "Topic",
-            "homepage": null,
-            "external_link": null,
             "href": "Devices--Gamma"
           },
           {
             "toc_title": "GeoColor",
             "level": 3,
-            "toc_type": "Topic",
-            "homepage": null,
-            "external_link": null,
-            "href": "6666"
+            "href": "Devices--GeoColor"
           },
           {
             "toc_title": "HelixGrad",
             "level": 3,
-            "toc_type": "Topic",
-            "homepage": null,
-            "external_link": null,
             "href": "Devices--HelixGrad"
           },
           {
             "toc_title": "Hydro",
             "level": 3,
-            "toc_type": "Topic",
-            "homepage": null,
-            "external_link": null,
-            "href": "6666"
+            "href": "Devices--Hydro"
           },
           {
             "toc_title": "LineNoise",
             "level": 3,
-            "toc_type": "Topic",
-            "homepage": null,
-            "external_link": null,
-            "href": "6666"
-          },
-          {
-            "toc_title": "Masq",
-            "level": 3,
-            "toc_type": "Topic",
-            "homepage": null,
-            "external_link": null,
-            "href": "6666"
+            "href": "Devices--LineNoise"
           },
           {
             "toc_title": "MeshAA",
             "level": 3,
-            "toc_type": "Topic",
-            "homepage": null,
-            "external_link": null,
             "href": "Devices--MeshAA"
           },
           {
             "toc_title": "Origami",
             "level": 3,
-            "toc_type": "Topic",
-            "homepage": null,
-            "external_link": null,
             "href": "Devices--Origami"
           },
           {
             "toc_title": "Perturb",
             "level": 3,
-            "toc_type": "Topic",
-            "homepage": null,
-            "external_link": null,
             "href": "Devices--Perturb"
           },
           {
             "toc_title": "PolarDistort",
             "level": 3,
-            "toc_type": "Topic",
-            "homepage": null,
-            "external_link": null,
-            "href": "6666"
+            "href": "Devices--PolarDistort"
           },
           {
             "toc_title": "ProgressiveNoise",
             "level": 3,
-            "toc_type": "Topic",
-            "homepage": null,
-            "external_link": null,
-            "href": "6666"
+            "href": "Devices--ProgressiveNoise"
           },
           {
             "toc_title": "Pyramids",
             "level": 3,
-            "toc_type": "Topic",
-            "homepage": null,
-            "external_link": null,
-            "href": "6666"
+            "href": "Devices--Pyramids"
           },
           {
             "toc_title": "RadialBlur",
             "level": 3,
-            "toc_type": "Topic",
-            "homepage": null,
-            "external_link": null,
             "href": "Devices--RadialBlur"
-          },
-          {
-            "toc_title": "Rake",
-            "level": 3,
-            "toc_type": "Topic",
-            "homepage": null,
-            "external_link": null,
-            "href": "6666"
           },
           {
             "toc_title": "Repulse",
             "level": 3,
-            "toc_type": "Topic",
-            "homepage": null,
-            "external_link": null,
-            "href": "6666"
+            "href": "Devices--Repulse"
           },
           {
             "toc_title": "RiverErosion",
             "level": 3,
-            "toc_type": "Topic",
-            "homepage": null,
-            "external_link": null,
             "href": "Devices--RiverErosion"
-          },
-          {
-            "toc_title": "RockOutcrops",
-            "level": 3,
-            "toc_type": "Topic",
-            "homepage": null,
-            "external_link": null,
-            "href": "6666"
           },
           {
             "toc_title": "Rocks",
             "level": 3,
-            "toc_type": "Topic",
-            "homepage": null,
-            "external_link": null,
-            "href": "6666"
+            "href": "Devices--Rocks"
           },
           {
             "toc_title": "Rotator",
             "level": 3,
-            "toc_type": "Topic",
-            "homepage": null,
-            "external_link": null,
             "href": "Devices--Rotator"
           },
           {
             "toc_title": "SandBlast",
             "level": 3,
-            "toc_type": "Topic",
-            "homepage": null,
-            "external_link": null,
-            "href": "6666"
+            "href": "Devices--SandBlast"
           },
           {
             "toc_title": "Sharpen",
             "level": 3,
-            "toc_type": "Topic",
-            "homepage": null,
-            "external_link": null,
-            "href": "6666"
+            "href": "Devices--Sharpen"
           },
           {
             "toc_title": "SContrast",
             "level": 3,
-            "toc_type": "Topic",
-            "homepage": null,
-            "external_link": null,
-            "href": "6666"
+            "href": "Devices--SContrast"
           },
           {
             "toc_title": "SlopeNoise",
             "level": 3,
-            "toc_type": "Topic",
-            "homepage": null,
-            "external_link": null,
-            "href": "6666"
+            "href": "Devices--SlopeNoise"
           },
           {
             "toc_title": "SoftRamp",
             "level": 3,
-            "toc_type": "Topic",
-            "homepage": null,
-            "external_link": null,
-            "href": "6666"
+            "href": "Devices--SoftRamp"
           },
           {
             "toc_title": "Stratifier",
             "level": 3,
-            "toc_type": "Topic",
-            "homepage": null,
-            "external_link": null,
-            "href": "6666"
+            "href": "Devices--Stratifier"
           },
           {
             "toc_title": "Surfacer",
             "level": 3,
-            "toc_type": "Topic",
-            "homepage": null,
-            "external_link": null,
-            "href": "6666"
+            "href": "Devices--Surfacer"
           },
           {
             "toc_title": "Swirl",
             "level": 3,
-            "toc_type": "Topic",
-            "homepage": null,
-            "external_link": null,
-            "href": "6666"
+            "href": "Devices--Swirl"
           },
           {
             "toc_title": "Tau",
             "level": 3,
-            "toc_type": "Topic",
-            "homepage": null,
-            "external_link": null,
-            "href": "6666"
-          },
-          {
-            "toc_title": "Trace",
-            "level": 3,
-            "toc_type": "Topic",
-            "homepage": null,
-            "external_link": null,
-            "href": "6666"
+            "href": "Devices--Tau"
           },
           {
             "toc_title": "Vortal",
             "level": 3,
-            "toc_type": "Topic",
-            "homepage": null,
-            "external_link": null,
             "href": "Devices--Vortal"
           },
           {
             "toc_title": "Vortex",
             "level": 3,
-            "toc_type": "Topic",
-            "homepage": null,
-            "external_link": null,
-            "href": "6666"
-          },
-          {
-            "toc_title": "Wave",
-            "level": 3,
-            "toc_type": "Topic",
-            "homepage": null,
-            "external_link": null,
-            "href": "6666"
+            "href": "Devices--Vortex"
           },
           {
             "toc_title": "Whorl",
             "level": 3,
-            "toc_type": "Topic",
-            "homepage": null,
-            "external_link": null,
-            "href": "6666"
-          },
-          {
-            "toc_title": "WindStreaks",
-            "level": 3,
-            "toc_type": "Topic",
-            "homepage": null,
-            "external_link": null,
-            "href": "6666"
+            "href": "Devices--Whorl"
           }
         ]
       },
       {
         "toc_title": "By Type",
         "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "0000",
+        "href": null,
         "children": [
           {
             "toc_title": "Generators",
             "level": 3,
-            "toc_type": "Topic",
-            "homepage": null,
-            "external_link": null,
-            "href": "0000",
+            "href": null,
             "children": [
               {
                 "toc_title": "DistanceGen",
                 "level": 3,
-                "toc_type": "Topic",
-                "homepage": null,
-                "external_link": null,
                 "href": "Devices--DistanceGen"
               },
               {
                 "toc_title": "HelixGrad",
                 "level": 3,
-                "toc_type": "Topic",
-                "homepage": null,
-                "external_link": null,
                 "href": "Devices--HelixGrad"
               },
               {
                 "toc_title": "LineNoise",
                 "level": 3,
-                "toc_type": "Topic",
-                "homepage": null,
-                "external_link": null,
-                "href": "6666"
+                "href": "Devices--LineNoise"
               }
             ]
           },
           {
             "toc_title": "Erosion",
             "level": 3,
-            "toc_type": "Topic",
-            "homepage": null,
-            "external_link": null,
             "href": null,
             "children": [
               {
                 "toc_title": "Buildup",
                 "level": 3,
-                "toc_type": "Topic",
-                "homepage": null,
-                "external_link": null,
                 "href": "Devices--Buildup"
+              },
+              {
+                "toc_title": "Fusion",
+                "level": 3,
+                "href": "Devices--Fusion"
               },
               {
                 "toc_title": "Hydro",
                 "level": 3,
-                "toc_type": "Topic",
-                "homepage": null,
-                "external_link": null,
-                "href": "6666"
+                "href": "Devices--Hydro"
               },
               {
                 "toc_title": "RiverErosion",
                 "level": 3,
-                "toc_type": "Topic",
-                "homepage": null,
-                "external_link": null,
                 "href": "Devices--RiverErosion"
               },
               {
                 "toc_title": "SandBlast",
                 "level": 3,
-                "toc_type": "Topic",
-                "homepage": null,
-                "external_link": null,
-                "href": "6666"
+                "href": "Devices--SandBlast"
               },
               {
                 "toc_title": "Stratifier",
                 "level": 3,
-                "toc_type": "Topic",
-                "homepage": null,
-                "external_link": null,
-                "href": "6666"
+                "href": "Devices--Stratifier"
               },
               {
                 "toc_title": "Vortal",
                 "level": 3,
-                "toc_type": "Topic",
-                "homepage": null,
-                "external_link": null,
                 "href": "Devices--Vortal"
               }
             ]
@@ -638,325 +409,175 @@
           {
             "toc_title": "Effects",
             "level": 3,
-            "toc_type": "Topic",
-            "homepage": null,
-            "external_link": null,
             "href": null,
             "children": [
               {
                 "toc_title": "Apex",
                 "level": 3,
-                "toc_type": "Topic",
-                "homepage": null,
-                "external_link": null,
-                "href": "6666"
+                "href": "Devices--Apex"
               },
               {
                 "toc_title": "AutoLevel",
                 "level": 3,
-                "toc_type": "Topic",
-                "homepage": null,
-                "external_link": null,
                 "href": "Devices--AutoLevel"
               },
               {
                 "toc_title": "Blocky",
                 "level": 3,
-                "toc_type": "Topic",
-                "homepage": null,
-                "external_link": null,
-                "href": "6666"
+                "href": "Devices--Blocky"
               },
               {
                 "toc_title": "Cells",
                 "level": 3,
-                "toc_type": "Topic",
-                "homepage": null,
-                "external_link": null,
                 "href": "Devices--Cells"
               },
               {
-                "toc_title": "CoarseTerrace",
+                "toc_title": "CTerrace",
                 "level": 3,
-                "toc_type": "Topic",
-                "homepage": null,
-                "external_link": null,
-                "href": "6666"
+                "href": "Devices--CTerrace"
               },
               {
                 "toc_title": "Collapse",
                 "level": 3,
-                "toc_type": "Topic",
-                "homepage": null,
-                "external_link": null,
                 "href": "Devices--Collapse"
               },
               {
                 "toc_title": "Gamma",
                 "level": 3,
-                "toc_type": "Topic",
-                "homepage": null,
-                "external_link": null,
                 "href": "Devices--Gamma"
-              },
-              {
-                "toc_title": "MoBlur",
-                "level": 3,
-                "toc_type": "Topic",
-                "homepage": null,
-                "external_link": null,
-                "href": "6666"
               },
               {
                 "toc_title": "Origami",
                 "level": 3,
-                "toc_type": "Topic",
-                "homepage": null,
-                "external_link": null,
                 "href": "Devices--Origami"
               },
               {
                 "toc_title": "Perturb",
                 "level": 3,
-                "toc_type": "Topic",
-                "homepage": null,
-                "external_link": null,
                 "href": "Devices--Perturb"
               },
               {
                 "toc_title": "PolarDistort",
                 "level": 3,
-                "toc_type": "Topic",
-                "homepage": null,
-                "external_link": null,
-                "href": "6666"
+                "href": "Devices--PolarDistort"
               },
               {
                 "toc_title": "ProgressiveNoise",
                 "level": 3,
-                "toc_type": "Topic",
-                "homepage": null,
-                "external_link": null,
-                "href": "6666"
+                "href": "Devices--ProgressiveNoise"
               },
               {
                 "toc_title": "Pyramids",
                 "level": 3,
-                "toc_type": "Topic",
-                "homepage": null,
-                "external_link": null,
-                "href": "6666"
+                "href": "Devices--Pyramids"
               },
               {
                 "toc_title": "RadialBlur",
                 "level": 3,
-                "toc_type": "Topic",
-                "homepage": null,
-                "external_link": null,
                 "href": "Devices--RadialBlur"
-              },
-              {
-                "toc_title": "Rake",
-                "level": 3,
-                "toc_type": "Topic",
-                "homepage": null,
-                "external_link": null,
-                "href": "6666"
               },
               {
                 "toc_title": "Repulse",
                 "level": 3,
-                "toc_type": "Topic",
-                "homepage": null,
-                "external_link": null,
-                "href": "6666"
-              },
-              {
-                "toc_title": "RockOutcrops",
-                "level": 3,
-                "toc_type": "Topic",
-                "homepage": null,
-                "external_link": null,
-                "href": "6666"
+                "href": "Devices--Repulse"
               },
               {
                 "toc_title": "Rocks",
                 "level": 3,
-                "toc_type": "Topic",
-                "homepage": null,
-                "external_link": null,
-                "href": "6666"
+                "href": "Devices--Rocks"
+              },
+              {
+                "toc_title": "SContrast",
+                "level": 3,
+                "href": "Devices--SContrast"
               },
               {
                 "toc_title": "Sharpen",
                 "level": 3,
-                "toc_type": "Topic",
-                "homepage": null,
-                "external_link": null,
-                "href": "6666"
-              },
-              {
-                "toc_title": "Sigmoid",
-                "level": 3,
-                "toc_type": "Topic",
-                "homepage": null,
-                "external_link": null,
-                "href": "6666"
+                "href": "Devices--Sharpen"
               },
               {
                 "toc_title": "SlopeNoise",
                 "level": 3,
-                "toc_type": "Topic",
-                "homepage": null,
-                "external_link": null,
-                "href": "6666"
+                "href": "Devices--SlopeNoise"
               },
               {
                 "toc_title": "SoftRamp",
                 "level": 3,
-                "toc_type": "Topic",
-                "homepage": null,
-                "external_link": null,
-                "href": "6666"
+                "href": "Devices--SoftRamp"
               },
               {
                 "toc_title": "Swirl",
                 "level": 3,
-                "toc_type": "Topic",
-                "homepage": null,
-                "external_link": null,
-                "href": "6666"
+                "href": "Devices--Swirl"
               },
               {
                 "toc_title": "Tau",
                 "level": 3,
-                "toc_type": "Topic",
-                "homepage": null,
-                "external_link": null,
-                "href": "6666"
+                "href": "Devices--Tau"
               },
               {
                 "toc_title": "Vortex",
                 "level": 3,
-                "toc_type": "Topic",
-                "homepage": null,
-                "external_link": null,
-                "href": "6666"
-              },
-              {
-                "toc_title": "Wave",
-                "level": 3,
-                "toc_type": "Topic",
-                "homepage": null,
-                "external_link": null,
-                "href": "6666"
+                "href": "Devices--Vortex"
               },
               {
                 "toc_title": "Whorl",
                 "level": 3,
-                "toc_type": "Topic",
-                "homepage": null,
-                "external_link": null,
-                "href": "6666"
+                "href": "Devices--Whorl"
               }
             ]
           },
           {
             "toc_title": "Color",
             "level": 3,
-            "toc_type": "Topic",
-            "homepage": null,
-            "external_link": null,
             "href": null,
             "children": [
               {
                 "toc_title": "GeoColor",
                 "level": 3,
-                "toc_type": "Topic",
-                "homepage": null,
-                "external_link": null,
-                "href": "6666"
+                "href": "Devices--GeoColor"
               },
               {
-                "toc_title": "Masq",
-                "level": 3,
-                "toc_type": "Topic",
-                "homepage": null,
-                "external_link": null,
-                "href": "6666"
+                "toc_title": "RidgeLine",
+                "level": 2,
+                "href": "Macros--RidgeLine"
               },
               {
                 "toc_title": "Surfacer",
                 "level": 3,
-                "toc_type": "Topic",
-                "homepage": null,
-                "external_link": null,
-                "href": "6666"
-              },
-              {
-                "toc_title": "Trace",
-                "level": 3,
-                "toc_type": "Topic",
-                "homepage": null,
-                "external_link": null,
-                "href": "6666"
-              },
-              {
-                "toc_title": "WindStreaks",
-                "level": 3,
-                "toc_type": "Topic",
-                "homepage": null,
-                "external_link": null,
-                "href": "6666"
+                "href": "Devices--Surfacer"
               }
             ]
           },
           {
             "toc_title": "Utility",
             "level": 3,
-            "toc_type": "Topic",
-            "homepage": null,
-            "external_link": null,
             "href": null,
             "children": [
               {
                 "toc_title": "Aperture",
                 "level": 3,
-                "toc_type": "Topic",
-                "homepage": null,
-                "external_link": null,
                 "href": "Devices--Aperture"
               },
               {
                 "toc_title": "Denoise",
                 "level": 3,
-                "toc_type": "Topic",
-                "homepage": null,
-                "external_link": null,
                 "href": "Devices--Denoise"
               },
               {
                 "toc_title": "Despeckle",
                 "level": 3,
-                "toc_type": "Topic",
-                "homepage": null,
-                "external_link": null,
                 "href": "Devices--Despeckle"
               },
               {
                 "toc_title": "MeshAA",
                 "level": 3,
-                "toc_type": "Topic",
-                "homepage": null,
-                "external_link": null,
                 "href": "Devices--MeshAA"
               },
               {
                 "toc_title": "Rotator",
                 "level": 3,
-                "toc_type": "Topic",
-                "homepage": null,
-                "external_link": null,
                 "href": "Devices--Rotator"
               }
             ]
@@ -967,566 +588,795 @@
   },
   {
     "toc_title": "Macro Reference",
-    "toc_type": "Topic",
-    "homepage": null,
-    "external_link": null,
     "href": null,
     "level": 1,
     "children": [
       {
-        "toc_title": "Alien",
+        "toc_title": "By Name",
         "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "6666"
+        "href": null,
+        "children": [
+          {
+            "toc_title": "Alien",
+            "level": 2,
+            "href": "Macros--Alien"
+          },
+          {
+            "toc_title": "Archipelago",
+            "level": 2,
+            "href": "Macros--Archipelago"
+          },
+          {
+            "toc_title": "Avalanche",
+            "level": 2,
+            "href": "Macros--Avalanche"
+          },
+          {
+            "toc_title": "Blizzard",
+            "level": 2,
+            "href": "Macros--Blizzard"
+          },
+          {
+            "toc_title": "Bulbous",
+            "level": 2,
+            "href": "Macros--Bulbous"
+          },
+          {
+            "toc_title": "Canyonizer",
+            "level": 2,
+            "href": "Macros--Canyonizer"
+          },
+          {
+            "toc_title": "Coord",
+            "level": 2,
+            "href": "Macros--Coord"
+          },
+          {
+            "toc_title": "Crater",
+            "level": 2,
+            "href": "Macros--Crater"
+          },
+          {
+            "toc_title": "Dunes",
+            "level": 2,
+            "href": "Macros--Dunes"
+          },
+          {
+            "toc_title": "DunesSea",
+            "level": 2,
+            "href": "Macros--DunesSea"
+          },
+          {
+            "toc_title": "EarthSpine",
+            "level": 2,
+            "href": "Macros--EarthSpine"
+          },
+          {
+            "toc_title": "EarthSpine2",
+            "level": 2,
+            "href": "Macros--EarthSpine2"
+          },
+          {
+            "toc_title": "EcoBump",
+            "level": 2,
+            "href": "Macros--EcoBump"
+          },
+          {
+            "toc_title": "EdgeFilter",
+            "level": 2,
+            "href": "Macros--EdgeFilter"
+          },
+          {
+            "toc_title": "Fault",
+            "level": 2,
+            "href": "Macros--Fault"
+          },
+          {
+            "toc_title": "Fissure",
+            "level": 2,
+            "href": "Macros--Fissure"
+          },
+          {
+            "toc_title": "Fluvial",
+            "level": 2,
+            "href": "Macros--Fluvial"
+          },
+          {
+            "toc_title": "GCombiner",
+            "level": 2,
+            "href": "Macros--GCombiner"
+          },
+          {
+            "toc_title": "GeoFlow",
+            "level": 2,
+            "href": "Macros--GeoFlow"
+          },
+          {
+            "toc_title": "GeoShape",
+            "level": 2,
+            "href": "Macros--GeoShape"
+          },
+          {
+            "toc_title": "Ghost",
+            "level": 2,
+            "href": "Macros--Ghost"
+          },
+          {
+            "toc_title": "HeatFused",
+            "level": 2,
+            "href": "Macros--HeatFused"
+          },
+          {
+            "toc_title": "HeightFrag",
+            "level": 2,
+            "href": "Macros--HeightFrag"
+          },
+          {
+            "toc_title": "HighDesert",
+            "level": 2,
+            "href": "Macros--HighDesert"
+          },
+          {
+            "toc_title": "Highlands",
+            "level": 2,
+            "href": "Macros--Highlands"
+          },
+          {
+            "toc_title": "Igneous",
+            "level": 2,
+            "href": "Macros--Igneous"
+          },
+          {
+            "toc_title": "KillSpike",
+            "level": 2,
+            "href": "Macros--KillSpike"
+          },
+          {
+            "toc_title": "KillSpike2X",
+            "level": 2,
+            "href": "Macros--KillSpike2X"
+          },
+          {
+            "toc_title": "Mesa",
+            "level": 2,
+            "href": "Macros--Mesa"
+          },
+          {
+            "toc_title": "Mesozoic",
+            "level": 2,
+            "href": "Macros--Mesozoic"
+          },
+          {
+            "toc_title": "MoonField",
+            "level": 2,
+            "href": "Macros--MoonField"
+          },
+          {
+            "toc_title": "Mountain",
+            "level": 2,
+            "href": "Macros--Mountain"
+          },
+          {
+            "toc_title": "MountainGen",
+            "level": 2,
+            "href": "Macros--MountainGen"
+          },
+          {
+            "toc_title": "MultiFault",
+            "level": 2,
+            "href": "Macros--MultiFault"
+          },
+          {
+            "toc_title": "MultiPerlin",
+            "level": 2,
+            "href": "Macros--MultiPerlin"
+          },
+          {
+            "toc_title": "NaturalTerrace",
+            "level": 2,
+            "href": "Macros--NaturalTerrace"
+          },
+          {
+            "toc_title": "NeoFlow",
+            "level": 2,
+            "href": "Macros--NeoFlow"
+          },
+          {
+            "toc_title": "OverErosion",
+            "level": 2,
+            "href": "Macros--OverErosion"
+          },
+          {
+            "toc_title": "Peak",
+            "level": 2,
+            "href": "Macros--Peak"
+          },
+          {
+            "toc_title": "PeakV2",
+            "level": 2,
+            "href": "Macros--PeakV2"
+          },
+          {
+            "toc_title": "PeakCompact",
+            "level": 2,
+            "href": "Macros--PeakCompact"
+          },
+          {
+            "toc_title": "PeakDetect",
+            "level": 2,
+            "href": "Macros--PeakDetect"
+          },
+          {
+            "toc_title": "Perlinoclast",
+            "level": 2,
+            "href": "Macros--Perlinoclast"
+          },
+          {
+            "toc_title": "Perlinoi",
+            "level": 2,
+            "href": "Macros--Perlinoi"
+          },
+          {
+            "toc_title": "Perlinox",
+            "level": 2,
+            "href": "Macros--Perlinox"
+          },
+          {
+            "toc_title": "PerlinRiver",
+            "level": 2,
+            "href": "Macros--PerlinRiver"
+          },
+          {
+            "toc_title": "PerlinWave",
+            "level": 2,
+            "href": "Macros--PerlinWave"
+          },
+          {
+            "toc_title": "Plateau",
+            "level": 2,
+            "href": "Macros--Plateau"
+          },
+          {
+            "toc_title": "Pockmarks",
+            "level": 2,
+            "href": "Macros--Pockmarks"
+          },
+          {
+            "toc_title": "PostErosion",
+            "level": 2,
+            "href": "Macros--PostErosion"
+          },
+          {
+            "toc_title": "RazorRidge",
+            "level": 2,
+            "href": "Macros--RazorRidge"
+          },
+          {
+            "toc_title": "RealColor",
+            "level": 2,
+            "href": "Macros--RealColor"
+          },
+          {
+            "toc_title": "ReFlow",
+            "level": 2,
+            "href": "Macros--ReFlow"
+          },
+          {
+            "toc_title": "Ridge",
+            "level": 2,
+            "href": "Macros--Ridge"
+          },
+          {
+            "toc_title": "RockyPerlin",
+            "level": 2,
+            "href": "Macros--RockyPerlin"
+          },
+          {
+            "toc_title": "SandStripe",
+            "level": 2,
+            "href": "Macros--SandStripe"
+          },
+          {
+            "toc_title": "Sandstone",
+            "level": 2,
+            "href": "Macros--Sandstone"
+          },
+          {
+            "toc_title": "SimpleTexture",
+            "level": 2,
+            "href": "Macros--SimpleTexture"
+          },
+          {
+            "toc_title": "SnowDrift",
+            "level": 2,
+            "href": "Macros--SnowDrift"
+          },
+          {
+            "toc_title": "StonesComplex",
+            "level": 2,
+            "href": "Macros--StonesComplex"
+          },
+          {
+            "toc_title": "StonesCortex",
+            "level": 2,
+            "href": "Macros--StonesCortex"
+          },
+          {
+            "toc_title": "StonesSimplex",
+            "level": 2,
+            "href": "Macros--StonesSimplex"
+          },
+          {
+            "toc_title": "StrataComplex",
+            "level": 2,
+            "href": "Macros--StrataComplex"
+          },
+          {
+            "toc_title": "StrataCortex",
+            "level": 2,
+            "href": "Macros--StrataCortex"
+          },
+          {
+            "toc_title": "StrataPerlin",
+            "level": 2,
+            "href": "Macros--StrataPerlin"
+          },
+          {
+            "toc_title": "StrataSimplex",
+            "level": 2,
+            "href": "Macros--StrataSimplex"
+          },
+          {
+            "toc_title": "Stratum",
+            "level": 2,
+            "href": "Macros--Stratum"
+          },
+          {
+            "toc_title": "SuperTerrace",
+            "level": 2,
+            "href": "Macros--SuperTerrace"
+          },
+          {
+            "toc_title": "Talus",
+            "level": 2,
+            "href": "Macros--Talus"
+          },
+          {
+            "toc_title": "ThermalShatter",
+            "level": 2,
+            "href": "Macros--ThermalShatter"
+          },
+          {
+            "toc_title": "Valley",
+            "level": 2,
+            "href": "Macros--Valley"
+          }
+        ]
       },
       {
-        "toc_title": "Archipelago",
+        "toc_title": "By Type",
         "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "Macros--Archipelago"
-      },
-      {
-        "toc_title": "Avalanche",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "Macros--Avalanche"
-      },
-      {
-        "toc_title": "Blizzard",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "6666"
-      },
-      {
-        "toc_title": "Bulbous",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "6666"
-      },
-      {
-        "toc_title": "Crater",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "6666"
-      },
-      {
-        "toc_title": "Dunes",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "Macros--Dunes"
-      },
-      {
-        "toc_title": "EarthSpine",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "Macros--EarthSpine"
-      },
-      {
-        "toc_title": "EarthSpine2",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "6666"
-      },
-      {
-        "toc_title": "EcoBump",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "Macros--EcoBump"
-      },
-      {
-        "toc_title": "EdgeFilter",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "6666"
-      },
-      {
-        "toc_title": "Fault",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "6666"
-      },
-      {
-        "toc_title": "Fissure",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "Macros--Fissure"
-      },
-      {
-        "toc_title": "Fluvial",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "Macros--Fluvial"
-      },
-      {
-        "toc_title": "GeoFlow",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "Macros--GeoFlow"
-      },
-      {
-        "toc_title": "GeoShape",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "Macros--GeoShape"
-      },
-      {
-        "toc_title": "Ghost",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "Macros--Ghost"
-      },
-      {
-        "toc_title": "HeatFused",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "6666"
-      },
-      {
-        "toc_title": "HeightFrag",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "Macros--HeightFrag"
-      },
-      {
-        "toc_title": "HighDesert",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "Macros--HighDesert"
-      },
-      {
-        "toc_title": "Highlands",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "Macros--Highlands"
-      },
-      {
-        "toc_title": "Igneous",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "Macros--Igneous"
-      },
-      {
-        "toc_title": "KillSpike",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "Macros--KillSpike"
-      },
-      {
-        "toc_title": "KillSpike2X",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "Macros--KillSpike2X"
-      },
-      {
-        "toc_title": "Mesa",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "Macros--Mesa"
-      },
-      {
-        "toc_title": "Mesozoic",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "Macros--Mesozoic"
-      },
-      {
-        "toc_title": "MoonField",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "6666"
-      },
-      {
-        "toc_title": "Mountain",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "Macros--Mountain"
-      },
-      {
-        "toc_title": "MountainGen",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "6666"
-      },
-      {
-        "toc_title": "MultiPerlin",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "Macros--MultiPerlin"
-      },
-      {
-        "toc_title": "NaturalTerrace",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "Macros--NaturalTerrace"
-      },
-      {
-        "toc_title": "NeoFlow",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "Macros--NeoFlow"
-      },
-      {
-        "toc_title": "OverErosion",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "Macros--OverErosion"
-      },
-      {
-        "toc_title": "Peak",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "Macros--Peak"
-      },
-      {
-        "toc_title": "PeakV2",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "6666"
-      },
-      {
-        "toc_title": "PeakCompact",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "Macros--PeakCompact"
-      },
-      {
-        "toc_title": "PeakDetect",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "Macros--PeakDetect"
-      },
-      {
-        "toc_title": "Perlinoclast",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "6666"
-      },
-      {
-        "toc_title": "Perlinoi",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "Macros--Perlinoi"
-      },
-      {
-        "toc_title": "Perlinox",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "Macros--Perlinox"
-      },
-      {
-        "toc_title": "PerlinRiver",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "6666"
-      },
-      {
-        "toc_title": "PerlinWave",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "Macros--PerlinWave"
-      },
-      {
-        "toc_title": "Plateau",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "Macros--Plateau"
-      },
-      {
-        "toc_title": "Pockmarks",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "Macros--Pockmarks"
-      },
-      {
-        "toc_title": "PostErosion",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "Macros--PostErosion"
-      },
-      {
-        "toc_title": "RazorRidge",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "Macros--RazorRidge"
-      },
-      {
-        "toc_title": "RealColor",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "6666"
-      },
-      {
-        "toc_title": "ReFlow",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "Macros--ReFlow"
-      },
-      {
-        "toc_title": "Ridge",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "Macros--Ridge"
-      },
-      {
-        "toc_title": "RockyPerlin",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "6666"
-      },
-      {
-        "toc_title": "Sandstone",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "6666"
-      },
-      {
-        "toc_title": "SnowDrift",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "6666"
-      },
-      {
-        "toc_title": "StonesComplex",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "6666"
-      },
-      {
-        "toc_title": "StonesCortex",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "6666"
-      },
-      {
-        "toc_title": "StonesSimplex",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "6666"
-      },
-      {
-        "toc_title": "StrataComplex",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "6666"
-      },
-      {
-        "toc_title": "StrataCortex",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "6666"
-      },
-      {
-        "toc_title": "StrataPerlin",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "6666"
-      },
-      {
-        "toc_title": "StrataSimplex",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "6666"
-      },
-      {
-        "toc_title": "SuperTerrace",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "6666"
-      },
-      {
-        "toc_title": "Talus",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "6666"
-      },
-      {
-        "toc_title": "ThermalShatter",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "6666"
-      },
-      {
-        "toc_title": "Valley",
-        "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "6666"
+        "href": null,
+        "children": [
+          {
+            "toc_title": "Generators",
+            "level": 3,
+            "href": null,
+            "children": [
+              {
+                "toc_title": "Alien",
+                "level": 2,
+                "href": "Macros--Alien"
+              },
+              {
+                "toc_title": "Archipelago",
+                "level": 2,
+                "href": "Macros--Archipelago"
+              },
+              {
+                "toc_title": "Bulbous",
+                "level": 2,
+                "href": "Macros--Bulbous"
+              },
+              {
+                "toc_title": "Canyonizer",
+                "level": 2,
+                "href": "Macros--Canyonizer"
+              },
+              {
+                "toc_title": "Crater",
+                "level": 2,
+                "href": "Macros--Crater"
+              },
+              {
+                "toc_title": "Dunes",
+                "level": 2,
+                "href": "Macros--Dunes"
+              },
+              {
+                "toc_title": "DunesSea",
+                "level": 2,
+                "href": "Macros--DunesSea"
+              },
+              {
+                "toc_title": "EarthSpine",
+                "level": 2,
+                "href": "Macros--EarthSpine"
+              },
+              {
+                "toc_title": "EarthSpine2",
+                "level": 2,
+                "href": "Macros--EarthSpine2"
+              },
+              {
+                "toc_title": "Fissure",
+                "level": 2,
+                "href": "Macros--Fissure"
+              },
+              {
+                "toc_title": "HeatFused",
+                "level": 2,
+                "href": "Macros--HeatFused"
+              },
+              {
+                "toc_title": "HighDesert",
+                "level": 2,
+                "href": "Macros--HighDesert"
+              },
+              {
+                "toc_title": "Highlands",
+                "level": 2,
+                "href": "Macros--Highlands"
+              },
+              {
+                "toc_title": "Igneous",
+                "level": 2,
+                "href": "Macros--Igneous"
+              },
+              {
+                "toc_title": "Mesozoic",
+                "level": 2,
+                "href": "Macros--Mesozoic"
+              },
+              {
+                "toc_title": "MoonField",
+                "level": 2,
+                "href": "Macros--MoonField"
+              },
+              {
+                "toc_title": "Mountain",
+                "level": 2,
+                "href": "Macros--Mountain"
+              },
+              {
+                "toc_title": "MountainGen",
+                "level": 2,
+                "href": "Macros--MountainGen"
+              },
+              {
+                "toc_title": "MultiPerlin",
+                "level": 2,
+                "href": "Macros--MultiPerlin"
+              },
+              {
+                "toc_title": "Peak",
+                "level": 2,
+                "href": "Macros--Peak"
+              },
+              {
+                "toc_title": "PeakV2",
+                "level": 2,
+                "href": "Macros--PeakV2"
+              },
+              {
+                "toc_title": "Perlinoclast",
+                "level": 2,
+                "href": "Macros--Perlinoclast"
+              },
+              {
+                "toc_title": "Perlinoi",
+                "level": 2,
+                "href": "Macros--Perlinoi"
+              },
+              {
+                "toc_title": "Perlinox",
+                "level": 2,
+                "href": "Macros--Perlinox"
+              },
+              {
+                "toc_title": "PerlinRiver",
+                "level": 2,
+                "href": "Macros--PerlinRiver"
+              },
+              {
+                "toc_title": "PerlinWave",
+                "level": 2,
+                "href": "Macros--PerlinWave"
+              },
+              {
+                "toc_title": "RazorRidge",
+                "level": 2,
+                "href": "Macros--RazorRidge"
+              },
+              {
+                "toc_title": "Ridge",
+                "level": 2,
+                "href": "Macros--Ridge"
+              },
+              {
+                "toc_title": "RockyPerlin",
+                "level": 2,
+                "href": "Macros--RockyPerlin"
+              },
+              {
+                "toc_title": "SandStripe",
+                "level": 2,
+                "href": "Macros--SandStripe"
+              },
+              {
+                "toc_title": "StrataPerlin",
+                "level": 2,
+                "href": "Macros--StrataPerlin"
+              },
+              {
+                "toc_title": "Talus",
+                "level": 2,
+                "href": "Macros--Talus"
+              },
+              {
+                "toc_title": "ThermalShatter",
+                "level": 2,
+                "href": "Macros--ThermalShatter"
+              }
+            ]
+          },
+          {
+            "toc_title": "Erosion",
+            "level": 3,
+            "href": null,
+            "children": [
+              {
+                "toc_title": "Fault",
+                "level": 2,
+                "href": "Macros--Fault"
+              },
+              {
+                "toc_title": "Fluvial",
+                "level": 2,
+                "href": "Macros--Fluvial"
+              },
+              {
+                "toc_title": "NeoFlow",
+                "level": 2,
+                "href": "Macros--NeoFlow"
+              },
+              {
+                "toc_title": "OverErosion",
+                "level": 2,
+                "href": "Macros--OverErosion"
+              },
+              {
+                "toc_title": "PostErosion",
+                "level": 2,
+                "href": "Macros--PostErosion"
+              },
+              {
+                "toc_title": "ReFlow",
+                "level": 2,
+                "href": "Macros--ReFlow"
+              }
+            ]
+          },
+          {
+            "toc_title": "Processing",
+            "level": 3,
+            "href": null,
+            "children": [
+              {
+                "toc_title": "Avalanche",
+                "level": 2,
+                "href": "Macros--Avalanche"
+              },
+              {
+                "toc_title": "Blizzard",
+                "level": 2,
+                "href": "Macros--Blizzard"
+              },
+              {
+                "toc_title": "EcoBump",
+                "level": 2,
+                "href": "Macros--EcoBump"
+              },
+              {
+                "toc_title": "GeoFlow",
+                "level": 2,
+                "href": "Macros--GeoFlow"
+              },
+              {
+                "toc_title": "Ghost",
+                "level": 2,
+                "href": "Macros--Ghost"
+              },
+              {
+                "toc_title": "Mesa",
+                "level": 2,
+                "href": "Macros--Mesa"
+              },
+              {
+                "toc_title": "MultiFault",
+                "level": 2,
+                "href": "Macros--MultiFault"
+              },
+              {
+                "toc_title": "NaturalTerrace",
+                "level": 2,
+                "href": "Macros--NaturalTerrace"
+              },
+              {
+                "toc_title": "PeakCompact",
+                "level": 2,
+                "href": "Macros--PeakCompact"
+              },
+              {
+                "toc_title": "Plateau",
+                "level": 2,
+                "href": "Macros--Plateau"
+              },
+              {
+                "toc_title": "Pockmarks",
+                "level": 2,
+                "href": "Macros--Pockmarks"
+              },
+              {
+                "toc_title": "Sandstone",
+                "level": 2,
+                "href": "Macros--Sandstone"
+              },
+              {
+                "toc_title": "SnowDrift",
+                "level": 2,
+                "href": "Macros--SnowDrift"
+              },
+              {
+                "toc_title": "StonesComplex",
+                "level": 2,
+                "href": "Macros--StonesComplex"
+              },
+              {
+                "toc_title": "StonesCortex",
+                "level": 2,
+                "href": "Macros--StonesCortex"
+              },
+              {
+                "toc_title": "StonesSimplex",
+                "level": 2,
+                "href": "Macros--StonesSimplex"
+              },
+              {
+                "toc_title": "StrataComplex",
+                "level": 2,
+                "href": "Macros--StrataComplex"
+              },
+              {
+                "toc_title": "StrataCortex",
+                "level": 2,
+                "href": "Macros--StrataCortex"
+              },
+              {
+                "toc_title": "StrataSimplex",
+                "level": 2,
+                "href": "Macros--StrataSimplex"
+              },
+              {
+                "toc_title": "Stratum",
+                "level": 2,
+                "href": "Macros--Stratum"
+              },
+              {
+                "toc_title": "SuperTerrace",
+                "level": 2,
+                "href": "Macros--SuperTerrace"
+              },
+              {
+                "toc_title": "Valley",
+                "level": 2,
+                "href": "Macros--Valley"
+              }
+            ]
+          },
+          {
+            "toc_title": "Utility",
+            "level": 3,
+            "href": null,
+            "children": [
+              {
+                "toc_title": "Coord",
+                "level": 2,
+                "href": "Macros--Coord"
+              },
+              {
+                "toc_title": "EdgeFilter",
+                "level": 2,
+                "href": "Macros--EdgeFilter"
+              },
+              {
+                "toc_title": "GCombiner",
+                "level": 2,
+                "href": "Macros--GCombiner"
+              },
+              {
+                "toc_title": "GeoShape",
+                "level": 2,
+                "href": "Macros--GeoShape"
+              },
+              {
+                "toc_title": "HeightFrag",
+                "level": 2,
+                "href": "Macros--HeightFrag"
+              },
+              {
+                "toc_title": "KillSpike",
+                "level": 2,
+                "href": "Macros--KillSpike"
+              },
+              {
+                "toc_title": "KillSpike2X",
+                "level": 2,
+                "href": "Macros--KillSpike2X"
+              },
+              {
+                "toc_title": "PeakDetect",
+                "level": 2,
+                "href": "Macros--PeakDetect"
+              },
+              {
+                "toc_title": "RealColor",
+                "level": 2,
+                "href": "Macros--RealColor"
+              },
+              {
+                "toc_title": "SimpleTexture",
+                "level": 2,
+                "href": "Macros--SimpleTexture"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
   {
     "toc_title": "Technical Support",
-    "toc_type": "Topic",
-    "homepage": null,
-    "external_link": null,
     "href": null,
     "level": 1,
     "children": [
       {
         "toc_title": "Getting Help",
         "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "6666"
+        "href": "Support--Getting-Help"
       },
       {
         "toc_title": "Common Scenarios",
         "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "6666"
+        "href": "Support--Common-Scenarios"
       },
       {
         "toc_title": "FAQ",
         "level": 2,
-        "toc_type": "Topic",
-        "homepage": null,
-        "external_link": null,
-        "href": "6666"
+        "href": "Support--FAQ"
       }
     ]
   },
   {
-    "toc_title": "Misc",
-    "toc_type": "Topic",
-    "homepage": null,
-    "external_link": null,
+    "toc_title": "Miscellaneous",
     "href": null,
     "level": 1,
-    "children": {
-      "toc_title": "EULA",
-      "level": 2,
-      "toc_type": "Topic",
-      "homepage": null,
-      "external_link": null,
-      "href": "Misc--EULA"
-    }
+    "children": [
+      {
+        "toc_title": "License Agreement",
+        "level": 2,
+        "href": "Misc--EULA"
+      }
+    ]
   }
 ]

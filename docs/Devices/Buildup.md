@@ -2,8 +2,8 @@ Buildup is an inverse form of erosion. Instead of taking sediments away, like th
 
 ## Properties
 
-- **Amount**: DESCRIPTION
-- **Dispersion**: DESCRIPTION
-- **Inversion**: DESCRIPTION
+- **Amount**: 
+- **Dispersion**: 
+- **Inversion**: 
 
 

@@ -34,8 +34,8 @@ If you have trouble selecting the paths, use the Path Guide below, and [watch th
 ### Path Guide
 - World Machine 2.3.7 is typically installed in *C:\Program Files (x86)\World Machine 2 Professional*
 - World Machine 3.0.x builds are typically installed in *C:\Program Files (x86)\World Machine Professional Edition Development Version*
-- World Machine Documents are typically installed in *C:\Users\[YOU]\Documents\World Machine Documents*
-- World Machine Macros are typically installed in *C:\Users\[YOU]\Documents\World Machine Documents\Macros*. 
+- World Machine Documents are typically installed in *C:\Users\username\Documents\World Machine Documents*
+- World Machine Macros are typically installed in *C:\Users\username\Documents\World Machine Documents\Macros*. 
 
 [!IMPORTANT]
 

@@ -1,8 +1,8 @@
-PARAGRAPH
+
 
 ## Properties
 
-- **Curved**: DESCRIPTION
-- **Difference**: DESCRIPTION
+- **Curved**: 
+- **Difference**: 
 
 
