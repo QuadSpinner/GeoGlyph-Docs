@@ -2,8 +2,8 @@ SandBlast adds windblown sand to a terrain, filling up crevices and creating san
 
 ## Properties
 
-- **Strength**: DESCRIPTION
-- **Dispersion**: DESCRIPTION
-- **Deposits**: DESCRIPTION
+- **Strength**: The strength of the erosion. Higher values blows more sand in the simulation.
+- **Dispersion**: The distance from each accumulation point, up to which the sand should gather. Higher values cause more sand to accumulate.
+- **Deposits**: When off, the erosion of blowing sand is applied but sand does not accumulate. When on, the blowing sand is deposited in the crevices and other appropriate locations. 
 
 

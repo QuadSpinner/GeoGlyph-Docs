@@ -10,4 +10,3 @@ It is generally recommended that such a powerful warp is added early in the grap
 
 Also Whorl can be combined with Swirl for some interesting effects.
 [TIP!]
-
