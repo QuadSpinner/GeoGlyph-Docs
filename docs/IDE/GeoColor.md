@@ -4,10 +4,10 @@ For detailed information on each GeoColor setting, see @GeoColor.
 
 ## See also
 - Primitive Components
-    - Surfacer
-    - RidgeLine
+    - @Surfacer
+    - @RidgeLine
 - Macros
-    - GeoShape
-    - RealColor
-    - HeightFrag
-    - SimpleTexture
+    - @GeoShape
+    - @RealColor
+    - @HeightFrag
+    - @SimpleTexture

@@ -7,7 +7,7 @@ This is the default Sky Colors shown in the Editors.
 This is the default position of the sun in the Editors.
 
 ### Screenshots Options
-This option lets you set the Work In Progress (WIP)  settings.
+This option lets you set the Work In Progress (WIP) settings.
 
 #### WIP recorder screenshot interval
 This option lets you set the interval (in seconds) at which the WIP recorder takes screenshot of the :warning: work area :warning:. By changing this slider value you can preview how many average screenshot files will be created or how many average seconds worth of video can be generated from the screenshot files. It also lets you preview the approximate disk size that will be used if that value is used.
