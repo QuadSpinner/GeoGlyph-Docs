@@ -4,8 +4,6 @@ The Gamma device applies Gamma adjustment to the heightfield. It works exactly a
 
 - **Amount**: The Gamma range is 0.0 to 5.0, with 1.0 being neutral or the original incoming gamma.
 
-#### Additional Information
-
 [!TIP]
 Gamma is often a convenient alternative to Equalizer or Bias-Gain.
 [TIP!]

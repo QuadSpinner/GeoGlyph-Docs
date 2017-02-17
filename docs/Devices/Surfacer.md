@@ -1,4 +1,4 @@
-PARAGRAPH
+Surfacer provides several types of texturing primitives. It should not be used by itself, but rather multiple Surfacers' ouput should be combined to create a sophisticated texture mask.
 
 ## Properties
 

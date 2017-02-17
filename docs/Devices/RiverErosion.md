@@ -1,4 +1,11 @@
 World Machine 3.0 introduces a new River system that lets you create beautiful winding rivers. RiverErosion further enhances your river creation by providing a different method of eroding rocky river banks, and even underwater areas. While @Hydro uses partially randomized, churning forces to erode the terrain, RiverErosion concentrates on following the flow and creating patterns based on how water flows over and around obstacles.
+<<<<<<< HEAD
+
+[!NOTE]
+While RiverErosion works great with World Machine 3.x, it works just as well with World Machine 2.x.
+[NOTE!]
+=======
+>>>>>>> refs/remotes/origin/dev
 
 ## Properties
 
@@ -7,8 +14,12 @@ World Machine 3.0 introduces a new River system that lets you create beautiful w
 
 [!TIP]
 A great way to create a river environment is to use RiverErosion on a blurred mask from the River (WM3 only), and then apply @Hydro erosion to the bottom half of the mask.
+<<<<<<< HEAD
+[TIP!]
+=======
 [TIP!]
 
 [!NOTE]
 While RiverErosion works great with World Machine 3.x, it works just as well with World Machine 2.x.
 [NOTE!]
+>>>>>>> refs/remotes/origin/dev

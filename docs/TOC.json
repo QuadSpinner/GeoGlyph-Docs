@@ -256,6 +256,11 @@
             "href": "Devices--RadialBlur"
           },
           {
+            "toc_title": "Recurve",
+            "level": 3,
+            "href": "Devices--Recurve"
+          },
+          {
             "toc_title": "Repulse",
             "level": 3,
             "href": "Devices--Repulse"
@@ -574,6 +579,11 @@
                 "toc_title": "MeshAA",
                 "level": 3,
                 "href": "Devices--MeshAA"
+              },
+              {
+                "toc_title": "Recurve",
+                "level": 3,
+                "href": "Devices--Recurve"
               },
               {
                 "toc_title": "Rotator",
