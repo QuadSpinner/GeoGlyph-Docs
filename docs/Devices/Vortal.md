@@ -11,5 +11,9 @@ The following properties are available for both the Macro Force (A) and Micro Fo
 - **Intensity**: This is the overall intensity (iterations) of the erosive process. Higher values yield better and stronger erosion but sacrifices build speed.
 
 [!TIP]
+<<<<<<< HEAD
 A great way to create a river environment is to use RiverErosion on a blurred mask from the River, and then apply @Hydro erosion to the bottom half of the mask.
+=======
+A great way to create a river environment is to use RiverErosion on a blurred mask from the River, and then apply Hydro erosion to the bottom half of the mask. A practical example of this can be found in "River + RiverErosion + Hydro.tmd" in the GeoGlyph Examples.
+>>>>>>> refs/remotes/origin/dev
 [TIP!]

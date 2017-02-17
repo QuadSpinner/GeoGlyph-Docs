@@ -6,5 +6,9 @@ SContrast works by adjusting the contrast based on the neighborhood of each sect
 - **Enhanced Edges**: Perform an extra set of contrast enhancements on the edges.
 
 [!TIP]
+<<<<<<< HEAD
 For delicate control over enhancing the contrast of masks, SContrast can be a powerful alternative to Equalizer. See **GG2-SContrast.tmd** for an example.
+=======
+For delicate control over enhancing the contrast of masks, SContrast can be a powerful alternative to Equalizer. See GG2-SContrast.tmd for an example.
+>>>>>>> refs/remotes/origin/dev
 [TIP!]

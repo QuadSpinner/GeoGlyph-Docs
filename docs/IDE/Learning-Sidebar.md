@@ -5,6 +5,10 @@ The **Learning Sidebar** gives you quick access to GeoGlyph and World Machine do
 ### GeoGlyph
 This tab contains the entire user guide for GeoGlyph 2, including device and macro reference.
 
+[!NOTE]
+An internet connection is required to see the GeoGlyph documentation.
+[NOTE!]
+
 ### World Machine
 This tab contains the World Machine Device Reference. The User Guide is available from the Help menu in the main window.
 

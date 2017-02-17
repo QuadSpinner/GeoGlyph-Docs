@@ -4,9 +4,15 @@ Blocky is a unique effect which creates long, vertical platforms on a given nois
 
 - **Curved**: Smooth out the sharp edges of the vertical platforms.
 - **Difference**: Output will show only the changes made to the noise, but not the noise itself. This can be useful for usage with combiners.
+<<<<<<< HEAD
 
 [!WARNING]
 
 This effect is resolution sensitive and will produce different results at different resolutions.
 
+=======
+
+[!WARNING]
+This effect is resolution sensitive and will produce different results at different resolutions.
+>>>>>>> refs/remotes/origin/dev
 [WARNING!]
