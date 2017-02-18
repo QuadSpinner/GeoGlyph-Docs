@@ -7,6 +7,10 @@ Rotator works in its own localspace. Even when you are working in world space, t
 #### Properties
 - **Degrees**: The amount by which the heightfield is rotated. The range is 0 to 360 degrees.
 
-[!TIP] To get non-perpendicular results from a filter, try rotating the input (for example, to an Erosion node) by 45 degrees. Then rotate the processed output (from the Erosion device) by -45 degrees to bring it back to the original heading. [TIP!]
+[!TIP] 
+To get non-perpendicular results from a filter, try rotating the input (for example, to an Erosion node) by 45 degrees. Then rotate the processed output (from the Erosion device) by -45 degrees to bring it back to the original heading. 
+[TIP!]
 
-[!WARNING] Does not tile [WARNING!]
+[!WARNING] 
+Does not tile 
+[WARNING!]

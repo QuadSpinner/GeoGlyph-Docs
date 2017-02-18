@@ -12,8 +12,10 @@ The Aperture device expands or compacts every single feature on the terrain, sim
     - *Rectangle* - Large, diagonal squares.
     - *Ring* - Small, circular formation with steps/terraces.
     - *Sobel* - Rectangular stretches which retain corner shapes.
-- **Randomized**: Description
+- **Randomized**: When on, each iteration uses a randomly selected kernel.
 
 [!TIP]
+
 To rotate the direction of the aperture kernels, use the @Rotator device before and after the Aperture device to change the direction, and then change it back. See Aperture.tmd example file for a demonstration of this technique.
+
 [TIP!]

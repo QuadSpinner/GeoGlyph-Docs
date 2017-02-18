@@ -5,5 +5,3 @@ Buildup is an inverse form of erosion. Instead of taking sediments away, like th
 - **Amount**: The amount of sediment buildup to add to the terrain.
 - **Dispersion**: The distance up to which the sediment buildup should expand.
 - **Inversion**: Invert the process of dispersion on slopes.
-
-

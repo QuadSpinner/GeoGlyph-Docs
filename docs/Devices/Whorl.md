@@ -8,5 +8,5 @@ Whorl applies multiple vortex-like distortions across the terrain to create larg
 [!TIP]
 It is generally recommended that such a powerful warp is added early in the graph, often right after the generator. Further filtering and erosion will then add a higher sense of realism.
 
-Also Whorl can be combined with Swirl for some interesting effects.
+Also Whorl can be combined with @Swirl for some interesting effects.
 [TIP!]

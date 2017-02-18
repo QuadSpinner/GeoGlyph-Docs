@@ -14,5 +14,7 @@ SlopeNoise is, as the name suggests, a special noise for creating slopes or a si
 - **Seed**: The seed that controls the randomization of the device.
 
 [!TIP]
-SlopeNoise can be merged with an Advanced Perlin either by using a Combiner or by using the Shape, Distortion, and Persistence guides in the Advanced Perlin. See GG2-SlopeNoise.tmd example file.
+
+SlopeNoise can be merged with an Advanced Perlin either by using a Combiner or by using the Shape, Distortion, and Persistence guides in the Advanced Perlin. See **GG2-SlopeNoise.tmd** example file.
+
 [TIP!]
