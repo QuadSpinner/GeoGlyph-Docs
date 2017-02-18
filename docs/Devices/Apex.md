@@ -5,12 +5,6 @@ Apex uses Euclidean distancing (the same function used to create the Voronoi pat
 - **Steepness**: The steepness of the mountains that will be formed through distancing.
 
 [!TIP]
-<<<<<<< HEAD
-
 Shapes with a hard outline will create better, and more controllable shapes. Try using @Collapse on a noise before applying Apex for better results.
-
-=======
-Shapes with a hard outline will create better, and more controllable shapes. Try using @Collapse on a noise before applying Apex for better results.
->>>>>>> refs/remotes/origin/dev
 [TIP!]
 

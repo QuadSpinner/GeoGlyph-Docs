@@ -11,3 +11,5 @@ Feedback can be sent without an email, but we won't be able to respond to anonym
 ### What's included in this error report?
 This link shows you the details of the report that is being sent with the feedback.
 
+## Also see
+[Getting Help](Support--Getting-Help) for other options.
