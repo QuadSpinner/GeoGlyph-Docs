@@ -1,3 +1,5 @@
+## The Maps
+The Map Browser is a very simple library that contains the presets that ship with GeoGlyph as well as any custom presets you save in the GeoColor dialog.
 
 ## Managing Favorites
 Using Favorites is a simple process.

@@ -39,10 +39,10 @@ If you have trouble selecting the paths, use the Path Guide below, and [watch th
 
 [!IMPORTANT]
 
-Sometimes Macros may be installed to *C:\Program Files (x86)\World Machine 2 Professional\Macros\*. If so, you will need to change it to the path above, or any other user-writable path that as no read/write restrictions. To change the path, go to ```World Commands menu > Preferences > Paths``` in World Machine.
+Sometimes Macros may be installed to *C:\Program Files (x86)\World Machine 2 Professional\Macros\*. If so, you will need to change it to the path above, or any other user-writable path that has no read/write restrictions. To change the path, go to ```World Commands menu > Preferences > Paths``` in World Machine.
 
 [IMPORTANT!]
 
 ## Compatibility with GeoGlyph 1.0
 
-Please see [this link](6666) for information on how to use GeoGlyph 1.0 macros in GeoGlyph 2.0. Ideally, you should [uninstall GeoGlyph 1.4 from the GeoGlyph Manager](6666) before installing GeoGlyph 2.0.
+Please see [this link](https://quadspinner.uservoice.com/knowledgebase/articles/1105595-can-i-run-geoglyph-2-side-by-side-with-geoglyph-1) for information on how to use GeoGlyph 1.0 macros in GeoGlyph 2.0. Ideally, you should uninstall GeoGlyph 1.4 from the GeoGlyph Manager before installing GeoGlyph 2.0.

@@ -266,6 +266,11 @@
             "href": "Devices--Repulse"
           },
           {
+                "toc_title": "RidgeLine",
+                "level": 2,
+                "href": "Macros--RidgeLine"
+          },
+          {
             "toc_title": "RiverErosion",
             "level": 3,
             "href": "Devices--RiverErosion"

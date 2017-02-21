@@ -17,4 +17,4 @@ The new GeoGlyph IDE gives you 3 methods to access devices and macros:
 
 ## Building
 
-GeoGlyph 2 introduces the **[Build Stack](IDE--Build-Stack)**. To have your build included in the Build Stack, you must be build your TMD file using the **Build All (Purple)** and **Build To Current (Green)** build buttons in the **GeoGlyph Toolbar**.
+GeoGlyph 2 introduces the **[Build Stack](IDE--Build-Stack)**. To have your build included in the Build Stack, you must build your TMD file using the **Build All (Purple)** and **Build To Current (Green)** build buttons in the **GeoGlyph Toolbar**.
