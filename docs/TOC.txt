@@ -107,9 +107,9 @@
         "href": null,
         "children": [
             {
-              "toc_title": "GeoColor",
+              "toc_title": "GeoColor Tools",
               "level": 3,
-              "href": "IDE--GeoColor"
+              "href": "IDE--Color-Production-Tools"
             },
             {
               "toc_title": "Map Browser",
@@ -256,9 +256,19 @@
             "href": "Devices--RadialBlur"
           },
           {
+            "toc_title": "Recurve",
+            "level": 3,
+            "href": "Devices--Recurve"
+          },
+          {
             "toc_title": "Repulse",
             "level": 3,
             "href": "Devices--Repulse"
+          },
+          {
+                "toc_title": "RidgeLine",
+                "level": 2,
+                "href": "Macros--RidgeLine"
           },
           {
             "toc_title": "RiverErosion",
@@ -574,6 +584,11 @@
                 "toc_title": "MeshAA",
                 "level": 3,
                 "href": "Devices--MeshAA"
+              },
+              {
+                "toc_title": "Recurve",
+                "level": 3,
+                "href": "Devices--Recurve"
               },
               {
                 "toc_title": "Rotator",

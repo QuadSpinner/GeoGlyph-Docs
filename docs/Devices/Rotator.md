@@ -12,5 +12,5 @@ To get non-perpendicular results from a filter, try rotating the input (for exam
 [TIP!]
 
 [!WARNING] 
-Does not tile 
+Does not tile. 
 [WARNING!]

@@ -11,4 +11,4 @@ This log can be sent to us by email, our [Uservoice](http://quadspinner.uservoic
 ## Contact Form
 You can use the contact form below to get in touch with us. If you have a Diagnostics Log, you can also attach it in the form below.
 
-> TODO: Add contact form
+<div id="supportGrod" data-uv-screenshot_enabled="false" data-uv-smartvote_enabled="false" data-uv-strings="strings: {contact_title: 'Describe your problem...'}" data-uv-embed="contact"></div>

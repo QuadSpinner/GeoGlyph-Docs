@@ -2,5 +2,5 @@ Tau creates overlapping terraces with large, rounded corners and gentle slopes. 
 
 ## Properties
 
-- **Amount**: Small values produce very fine terraces, while larger values produce bigger, bulkier terraces.
+- **Amount**: Low values produce very fine terraces; high values produce bigger, bulkier terraces.
 - **Dispersion**: How far the terrace formations should spread.

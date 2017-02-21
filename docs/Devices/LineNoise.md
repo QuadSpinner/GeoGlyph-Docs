@@ -1,4 +1,4 @@
-LineNoise is a geometric generator that creates sets of lines that can be distorted and used with other noises and fractals for creating layered ridges.
+LineNoise is a geometry generator that creates sets of lines that can be distorted and used with other noises and fractals to create layered ridges.
 
 ## Properties
 

@@ -4,7 +4,7 @@ Unlike traditional terracing, you do not define the number of terraces. The effe
 
 ## Properties
 
-- **Amount**: The amount of terracing the terrain should undergo. Smaller values produce delicate, and more terraces; larger values produce more pronounced, and thicker terraces.
+- **Amount**: The amount of terracing the terrain should undergo. Low values produce delicate and more numerous terraces; high values produce more pronounced and thicker terraces.
 
 [!TIP]
 CTerrace can be very useful for creating agricultural terraces, mines, and stepped formations.

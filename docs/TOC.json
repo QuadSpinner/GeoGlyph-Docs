@@ -107,9 +107,9 @@
         "href": null,
         "children": [
             {
-              "toc_title": "GeoColor",
+              "toc_title": "GeoColor Tools",
               "level": 3,
-              "href": "IDE--GeoColor"
+              "href": "IDE--Color-Production-Tools"
             },
             {
               "toc_title": "Map Browser",

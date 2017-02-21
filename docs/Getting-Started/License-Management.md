@@ -4,7 +4,7 @@ GeoGlyph 2.0 features a flexible, hassle-free licensing system. It is no longer 
 
 1. Sign into your account on the [QuadSpinner Store](http://store.quadspinner.com).
 1. Download your license key using the **Key** link in your Downloads area.
-1. Open GeoGlyph, and open the menu item **Manage License**. This can be access from the **GeoGlyph Startup Screen menu** or from the **+GeoGlyph** menu in the IDE.
+1. Open GeoGlyph, and open the menu item **Manage License**. This can be accessed from the **GeoGlyph Startup Screen menu** or from the **+GeoGlyph** menu in the IDE.
 1. Click **Load License** and select the `JohnDoe_Indie_1234.gg2` key file.
 1. GeoGlyph will be instantly authorized.
 
@@ -15,10 +15,10 @@ GeoGlyph 2.0 does not use .txt files for licenses like GeoGlyph 1.0. The new for
 [NOTE!] 
 
 ## Deauthorizing your copy
-GeoGylph 2.0 can be installed on 2 different machines. If you face a hardware change, or need to install on a new computer, you will first need to deauthorize one of the other installations.
+GeoGylph 2.0 can be installed on 2 different machines. If you face a hardware change, or need to install on a new computer, you will first need to deauthorize one of the two installations.
 
 To deauthorize a copy:
-1. Open GeoGlyph, and open the menu item **Manage License**. This can be access from the **GeoGlyph Startup Screen menu** or from the **+GeoGlyph** menu in the IDE.
+1. Open GeoGlyph, and open the menu item **Manage License**. This can be accessed from the **GeoGlyph Startup Screen menu** or from the **+GeoGlyph** menu in the IDE.
 1. Click **Deactivate**.
 1. GeoGlyph will create a copy of the deactivation record on your desktop, called *GeoGlyph_Deactivation.txt*.
 

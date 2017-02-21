@@ -2,5 +2,5 @@ The PolarDistort effect creates a kaleidoscope-like effect on a terrain. It can 
 
 ## Properties
 
-- **Amount**: The amount of polar distortion to apply to the terrain. 0.1 is a full, single distortion. Smaller values produce more repititions, and higher values produce fewer repititions.
+- **Amount**: The amount of polar distortion to apply to the terrain. 0.1 is a full, single distortion. Low values produce more repetitions; high values produce fewer repetitions.
 

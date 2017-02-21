@@ -1,12 +1,12 @@
-SlopeNoise is, as the name suggests, a special noise for creating slopes or a single face of a mountain. SlopeNoise is built on a Perlin-like random noise, which is filtered to create curvature platforms with runoffs that facilitate erosion lines.
+As the name suggests, SlopeNoise is a special noise for creating slopes or a single face of a mountain. SlopeNoise is built on a Perlin-like random noise, which is filtered to create curvature platforms with runoffs that facilitate erosion lines.
 
 ## Properties
 
-- **Diffuse**: Controls the size of the features. Smaller values give finer, noisier features, while larger values give larger platform-like features.
+- **Diffuse**: Controls the size of the features. Low values give finer, noisier features; high values give larger platform-like features.
 - **Degrees**: The direction of the slope.
 - **Expand**: Controls the expansion of the platform features.
 - **Kernel**: The Kernel is the shape of the features. Changing the kernel can change how the features on the terrain are modified.
-    - *Cross*: Small cross pattern. Can create predictable shape, use with masking for best results.
+    - *Cross*: Small cross pattern. Can create predictable shape. For best results, use with masking.
     - *Diamond* - Small, diagonal squares.
     - *Octagon*: Large, octagonal formation.
     - *Disk:* Large, circular formation.

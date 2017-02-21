@@ -1,4 +1,4 @@
-RadialBlur works exactly as its sister-effects in Photoshop and other paint programs. It "spins" the terrain creating a whirling effect.
+RadialBlur works exactly like its sister-effects in Photoshop and other paint programs. It "spins" the terrain creating a whirling effect.
 
 ## Properties
 - **Amount**: The amount of radial blurring applied to the terrain.

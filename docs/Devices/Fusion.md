@@ -10,7 +10,7 @@ Fusion further adds slanted terracing to convey terrain folding and collapsed pl
 - **Seed:** The random seed of the erosion.
 
 [!TIP]
-High value Deviation can create very useful slopes upon which you can use snow accumulation devices or macros such as @Blizzard and @Avalanche, or even @SandBlast.
+High value Deviation can create very useful slopes upon which you can use snow accumulation devices or macros, such as @Blizzard and @Avalanche, or even @SandBlast.
 
 With low value Deviation, @Buildup can also create interesting effects.
 [TIP!]

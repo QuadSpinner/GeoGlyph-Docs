@@ -2,7 +2,7 @@ This device creates perturbations across the terrain, mimicking swirling water. 
 
 ## Properties
 
-- **Subdivision**: The intensity of perturbation force. Low values create larger shapes with calm swirls, while high values create smaller shapes with more chaos.
+- **Subdivision**: The intensity of perturbation force. Low values create larger shapes with calm swirls; high values create smaller shapes with more chaos.
 - **Iterations**: The number of perturb iterations to perform. Each iteration creates additional steps/terraces.
 
 [!WARNING]
