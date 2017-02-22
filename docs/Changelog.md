@@ -5,7 +5,13 @@ Released on 2/21/2017
 - First 2.1 series build
 - Massive parallel processing update for all erosion devices up to 20x faster
 - Recurve device added
-- Several bug fixes
+- GeoColor Gradient Editor now shows the name of selected preset
+- Fixed misnamed button in GeoColor dialog
+- Added option in GeoGlyph and Start Screen menus to generate diagnostic dialog
+- New documentation viewer and Learning Sidebar
+- Documentation now accessed from website, for up-to-date information
+- Major update to documentation (more updates on the way)
+- Several bug fixes and performance improvements
 
 # GeoGlyph 2.0
 ## Build 2.0.710.130 
