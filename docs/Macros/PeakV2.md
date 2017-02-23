@@ -1,4 +1,4 @@
-
+PeakV2 generates complex peak formations, often with sibling peaks. It is an upgrade of the @Peak macro, providing a greater level of control and realism.
 
 ## Properties
 

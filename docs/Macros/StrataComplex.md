@@ -1,3 +1,4 @@
+StrataComplex provides all the stratification capabilities that a true World Machine power-user needs. Manage primary stratification, tilt, secondary stratification, and altitude limits. Create rifts in strata distribution and gain precise process control with your own masks.
 
 ## Properties
 

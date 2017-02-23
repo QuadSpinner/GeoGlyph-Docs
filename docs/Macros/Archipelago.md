@@ -1,4 +1,4 @@
-
+Generate an entire archipelago with just one robust device and achieve that ‘shattered islands' look. Archipelago gives you full control over scale, coastal vs. central island bias, sprawl of the main body, and optional built-in erosion. You can also opt to utilize a user-drawn Layout as the shape guide, instead of the built-in fractal.The terrains can be further enhanced by adding a circling reef to create individual atolls or a cluster of reef-fringed isles. Scenic and spectacular!
 
 ## Properties
  
@@ -19,7 +19,3 @@
 - **Seed**: 
 - **Shelf**: 
 - **Fragmentation**: 
-
-
-
-

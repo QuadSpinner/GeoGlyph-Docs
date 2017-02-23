@@ -1,5 +1,5 @@
 ## A new start experience
-Instead of opening up to the default document, GeoGlyph uses a new Start Screen to give you options on how you would like to begin your experience.
+Instead of opening up to the default document, GeoGlyph uses a new Start Screen which gives you options on how you would like to begin your experience.
 
 You can choose between the IDE and Hosted Mode, and select which version of World Machine to use. You can also choose to open a recent file, or one of the several examples we provide to learn GeoGlyph.
 
@@ -9,7 +9,7 @@ Select "GeoGlyph IDE" to launch the IDE with the selected version of World Machi
 Select "World Machine" to use the Hosted Mode which uses a lightweight version of the IDE tools - specifically the [Toolbox](IDE--Toolbox) and toolbar, as well as the [Enhanced Device Editor](IDE--Device-Editor) while allowing you to use the traditional World Machine interface.
 
 [!NOTE]
-You can use World Machine directly, without using the IDE in any form. However, the Enhanced Device Editor which is necessary for tools such as @GeoColor will not be available, along with pro tools such as the Build Stack, Toolbox, and other IDE enhancements.
+You can use World Machine directly, without using the IDE in any form. However, the Enhanced Device Editor, which is necessary for tools such as @GeoColor. Nor will Pro tools such as the Build Stack, Toolbox, and other IDE enhancements.
 [NOTE!]
 
 ## Quick access to recent files
@@ -18,7 +18,7 @@ The Recent tab shows the last 10 files accessed with GeoGlyph. If you have used 
 You can also choose *OPEN FILE...* to open any file. This will launch the GeoGlyph IDE by default, using the selected version of World Machine.
 
 [!NOTE]
-This list is separate from World Machine's recently used files list.
+This list is separate from World Machine's *recently used* files list.
 [NOTE!]
 
 ## Examples

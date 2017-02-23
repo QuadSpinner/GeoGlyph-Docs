@@ -7,6 +7,7 @@
 - **Strata:**
 - **Substrata:**
 - **Hardened Edges:**
+StrataCortex is an unprecedented approach to stratification and terracing in World Machine. It uses a recursive method to recreate the entire terrain with stratified sub-layers, instead of the simple slicing techniquethat World Machine's standard Terrace device performs. StrataCortex showcases a hyper-realistic heat-fused terrain with multidirectional tilt achieved through natural processes.
 
 ### Rift
 - **Scale:**
@@ -22,20 +23,4 @@
 - **Direction:**
 - **Seed:**
 - **Patten:**
-	- *1:*
-	- *2:*
-	- *3:*
-	- *4:*
-	- *5:*
-	- *6:*
-	- *7:*
-	- *8:*
-	- *9:*
-	- *10:*
-	- *11:*
-	- *12:*
-	- *13:*
-	- *14:*
-	- *15:*
-	- *16:*
 - **Strength:**

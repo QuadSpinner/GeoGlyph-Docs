@@ -1,4 +1,4 @@
-
+A simple macro for creating a crater-filled environment.
 
 ## Properties
 

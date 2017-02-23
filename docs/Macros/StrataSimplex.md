@@ -1,3 +1,4 @@
+StrataSimplex introduces multistrata terracing with ground-tilt to World Machine for the first time. Easily stratify your terrains with altitude-sensitive layering, complete tilt control, thermal compacting, and substrata bias.
 
 ## Properties
 

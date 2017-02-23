@@ -1,3 +1,4 @@
+StonesCortex generates a highly sophisticated stone field, allowing for detailed management and bias-randomized distribution, including cluster control.
 
 ## Properties
 

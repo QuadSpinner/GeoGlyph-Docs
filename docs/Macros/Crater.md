@@ -1,5 +1,4 @@
-This macro produces a simple crater, with precise control over height and shape distribution. The built-in morphing controls allow you to expand and contract, raise and lower, and explore an infinite variety of distortions. For compounded versatility, combine Crater with existing terrains and erode for enhanced realism, or erode by itself and merge with other geological formations. 
-
+This macro produces a simple crater, with precise control over height and shape distribution. Expand and contract, raise and lower, and explore an infinite variety of distortions using the built-in morphing controls. For compounded versatility, combine Crater with existing terrains and erode for enhanced realism, or erode by itself and merge with other geological formations.
 
 ## Properties
 

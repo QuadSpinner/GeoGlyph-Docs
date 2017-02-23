@@ -16,7 +16,7 @@ Select between visual and typographic icons for GeoGlyph and World Machine eleme
 - *Show large icons in Toolbox* - Toolbox popup and sidebar show larger icons.
 - *Hide less frequently used tabs* - The Macros, Parameters, Flow, and Curves tabs are hidden in the toolbar. They can still be accessed through Search or the Toolbox.
 - *Use color accents for tabs* - Colored accents are added to tabs for easier recognition
-- *Show Exanded buttons in Toolbar* - Commonly used buttons such as `Save`, `Device View`, and `Build to Current` are expanded for easier access.
+- *Show Expanded buttons in Toolbar* - Commonly used buttons such as `Save`, `Device View`, and `Build to Current` are expanded for easier access.
 
 ## Renderer
 
@@ -30,13 +30,13 @@ GeoGlyph can utilize OpenCL devices on your computer (both CPU and GPU) when ava
 ## Paths
 
 ### World Machine Paths
-This option lets you set the path for World Machine installations for WM 2.3.7, WM 3.0.3, WM 3.0.11, it also lets you set the path for World Machine Documents and Macros. Changing any of the values in this section will require you to restart GeoGlyph.
+This option lets you set the path for World Machine installations for WM 2.3.7, WM 3.0.3, WM 3.0.11. It also lets you set the path for World Machine Documents and Macros. Changing any of the values in this section will require you to restart GeoGlyph.
 
 If the Path for any World Machine installation is changed, you will need to manually move the GG###.dll and GGLib.dll files from the plugins folder. For more accurate results, we recommend reinstalling GeoGlyph if any World Machine path is changed.
 
 ## Notifications
 
-When turned on, GeoGlyph will send a notification email to the specified email address. You can specify multiple addresses by separating them with a comma `,`.
+When turned on, GeoGlyph will send a notification email to the specified email address. You can specify multiple addresses by separating them with a `,`.
 
 Optionally, you can also choose to attach the 3D preview of the finished build.
 
@@ -49,6 +49,6 @@ Only available in the Professional Edition.
 ## Privacy
 
 ### Collect anonymous usage data to help improve GeoGlyph
-Usage data such as statistics, hardware configuration and installation paths help us improve GeoGlyph. We encourage you to participate in this to help us create a better software for you.
+Usage data - such as statistics, hardware configuration and installation paths - helps us improve GeoGlyph. We encourage you to participate to help us create a better software for you.
 
-We do not collect or use personal information in this process. Each week, GeoGlyph will send up to 1024kb (1MB) of usage data.
+We do not collect or use personal information in this process. Each week, GeoGlyph will send a few MB of usage data.

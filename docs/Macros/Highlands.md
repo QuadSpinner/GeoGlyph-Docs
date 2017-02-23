@@ -2,13 +2,6 @@ One of the most complex generators ever, Highlands creates exquisite rocky highl
 
 The macro exposes a special mask for rocks and rock clusters. 
 
-- One of the most complex generators ever
-- Generate rocky highlands reminiscent of Scotland, Norway, etc.
-- Combines rock outcroppings with loose rocks throughout the terrain
-- Exposes special mask for rocks and rock clusters
-- Lightning fast even at high resolution
-- Does not use erosion. Results are from pure fractal mathematics.
-
 ## Properties
 
 ### Generator 

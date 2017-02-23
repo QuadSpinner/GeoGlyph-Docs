@@ -1,4 +1,4 @@
-
+The successor to @EarthSpine, this macro creates large scale terrains with sharp edges and gentle flows.
 
 ## Properties
 

@@ -1,4 +1,4 @@
-Pockmarks makes variable-sized holes in the surface to create a controlled porous terrain, reminiscent of crater impressions on the Moon. Combine the resulting terrain with GeoGlyph's Crater for optimal effect. 
+Pockmarks makes variable-sized holes in the surface to create a controlled porous terrain, reminiscent of crater impressions on the Moon. Combine the resulting terrain with GeoGlyph's @Crater or @MoonField for optimal effect. 
 
 ## Properties
 
